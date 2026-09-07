@@ -1,0 +1,73 @@
+{
+  "phase": 93,
+  "level": "Chemical Plant Zone Act 2",
+  "start": [
+    96,
+    300
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10880,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "object_records": 202,
+  "object_counts_hex": {
+    "03": 59,
+    "0B": 14,
+    "19": 6,
+    "1B": 12,
+    "1E": 7,
+    "26": 19,
+    "2D": 4,
+    "32": 3,
+    "36": 3,
+    "3E": 1,
+    "40": 6,
+    "41": 3,
+    "6B": 28,
+    "74": 16,
+    "78": 4,
+    "79": 5,
+    "7A": 3,
+    "7B": 4,
+    "A5": 1,
+    "A6": 1,
+    "A7": 3
+  },
+  "water": {
+    "initial": 1808,
+    "dynamic_trigger_x": 7648,
+    "target_after_trigger": 1296
+  },
+  "boss_event": "deferred to Phase 94 (LevEvents_CPZ2 / Object $5D)",
+  "egg_prison": "placed $3E retained but intentionally inert until boss phase",
+  "source_sha256": {
+    "layout": "de4bd37acf15cf8d3469c605689cc592be45078e1a92faa15f4f7efe1c670e84",
+    "objects": "316c884cb1a26233eb1c67682d679d8e0fa4a3d353f76b4ca740ae705507f61b",
+    "rings": "036edd798c5e283d43f6d05b6254909f11c234f80b2f65933a13a7afae3263a4",
+    "start": "e25ea03e7db4246dcb38ccf5785ed6b21d035dffa7de19db644cbef4f0c22ec8",
+    "underwater": "304157b52b2804b7f4794b467abc17eef9ad1765ba5253ba2364603a41299af5",
+    "sonicpal": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62",
+    "cpzpal": "345f06d4282de86e4d9b1763e766c00012c6d3a1a25100cdbc1db4a81a385b35",
+    "leverart": "dfb3767c89a88fbec448b8cca67a3b661f9cfa7d4e3a260567a75633384e1f89",
+    "levermap": "b9cedb7bfdb02e0ceab24be6a55d93be7d66ad2cbabd4e80f03b1d2c0d23c855",
+    "platformart": "5b2eb875e89b974c3cb1c3defdc88140c0b3149e1873599927e16ad95e80ab53",
+    "platformmap": "47bcfe379f92367cfed99a31954edd4d44728eb98b7969f9b8560a3f9df0040d"
+  },
+  "output_sha256": {
+    "cpz2_layout128.bin": "69c69a4ba687deab83443f9c4fe154dc3e8d1545250a7e9ba86ecb5ba44d4e45",
+    "cpz2_bg128.bin": "fb443123dd2458f0ffbba8a426fc27fe5c781ad9bddac1bba4922d82219150f1",
+    "cpz2_objects.bin": "316c884cb1a26233eb1c67682d679d8e0fa4a3d353f76b4ca740ae705507f61b",
+    "cpz2_rings.bin": "036edd798c5e283d43f6d05b6254909f11c234f80b2f65933a13a7afae3263a4",
+    "cpz2_start.bin": "e25ea03e7db4246dcb38ccf5785ed6b21d035dffa7de19db644cbef4f0c22ec8"
+  }
+}

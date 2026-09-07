@@ -1,0 +1,113 @@
+{
+  "phase": 117,
+  "level": "Oil Ocean Zone Act 2",
+  "start": [
+    96,
+    1388
+  ],
+  "limits": {
+    "left": 0,
+    "right": 11520,
+    "top": 0,
+    "bottom": 1664
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "object_records": 190,
+  "object_counts_hex": {
+    "15": 1,
+    "19": 13,
+    "1C": 17,
+    "1F": 10,
+    "26": 16,
+    "33": 8,
+    "36": 29,
+    "3D": 4,
+    "3E": 1,
+    "3F": 18,
+    "41": 6,
+    "43": 6,
+    "45": 5,
+    "48": 24,
+    "4A": 16,
+    "50": 12,
+    "74": 1,
+    "79": 3
+  },
+  "native_routed_records": 190,
+  "boss_gated_egg_prison_records": 1,
+  "new_object_frames": {
+    "15": 4,
+    "43": 1,
+    "45": 29
+  },
+  "dynamic_event": {
+    "oil_raise_x": 9832,
+    "oil_y": 728,
+    "camera_max_y": 480,
+    "arena_x": 10368,
+    "arena_right": 10432,
+    "screen_shift": 90
+  },
+  "boss": "Object $55 / boss palette/music/ScreenShift completion deferred to Phase 118",
+  "source_sha256": {
+    "layout": "38150d7addc95de002229718808ce18c0f9b271deaa6774b56e1b5df3ba90815",
+    "objects": "6f0747f91627814296fa26e3f8d1bb3ec995ea6e1cd36d840532c409cd61a9e9",
+    "rings": "4ed2f1a1d1a32ea965043572a8e5ec38d953ebb394a744e29f295a18bbf8fca7",
+    "start": "9492b39b1d67dc03004d8b3d6d7f94b0c669216414312aea660e65d2b79d2be4",
+    "obj15_map": "d5bbf79ec1880ce7b34729e8b84b58a6f57f1d97b733bf90f3880ace42a58aa9",
+    "obj43_map": "40fdf58f7c856829cec04b414de84330bebcb170b7943128e489379f77336981",
+    "obj45_map": "d500837d0d0f0a44d515d28377151e40bea6d48a60ab47e952bd791dd0c07bad",
+    "sonic_palette": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62",
+    "zone_palette": "884633a916338b014948844b8f69cd64d4e3afc99a8609eecd968b9ad643c3bc"
+  },
+  "output_sha256": {
+    "ooz2_layout128.bin": "c4653f30a027afceb26c023d972be2542c2a2e1273dac88166dc3ea145a81262",
+    "ooz2_bg128.bin": "4b6603b7b0e7a2a5eaa01eb93c0b43a59426fe03549b34fe501c9d4765cab4fc",
+    "ooz2_objects.bin": "6f0747f91627814296fa26e3f8d1bb3ec995ea6e1cd36d840532c409cd61a9e9",
+    "ooz2_rings.bin": "4ed2f1a1d1a32ea965043572a8e5ec38d953ebb394a744e29f295a18bbf8fca7",
+    "ooz2_start.bin": "9492b39b1d67dc03004d8b3d6d7f94b0c669216414312aea660e65d2b79d2be4"
+  },
+  "asset_sha256": {
+    "swing/00.png": "63f31f4edfac275c85816372247f0bd44ad8594c7363bfce2459024742fc81ad",
+    "swing/01.png": "ced13470a8ec6f4fdd8eca4b97e87d001030e98eeb18c209eb46cd484d493884",
+    "swing/02.png": "ced13470a8ec6f4fdd8eca4b97e87d001030e98eeb18c209eb46cd484d493884",
+    "swing/03.png": "3f428f0c48205e41707fe65ad63f707c1e371313c689fd02d96a5401135d5564",
+    "sliding_spike/00.png": "fda777c7ee2d6a4422299c43d7b0ae78316142fe7af5be50c76f6962afbddfe2",
+    "pressure_spring/00.png": "883805f2723a7645bb30272bac080f384588195445b0765c65d328d590d5a9f7",
+    "pressure_spring/01.png": "8e52b8d264bbfcd9a508cd2f2e86212036ea2490446a71fb836b103a139d1bba",
+    "pressure_spring/02.png": "7f3cbc75a4b2a30662a275ece6a86677662b0674f702f4e8f971caef4fe83263",
+    "pressure_spring/03.png": "169fdc2041e91994dd768c5f41f99d8351174ca040d95412c523723b37e1ebbb",
+    "pressure_spring/04.png": "a66007b2e66a428387a2cbaed8097fba420268a55004b1b0cca39803eeaef46c",
+    "pressure_spring/05.png": "e360aaa05ddc54929e9a9b63749e2d0d00892bc66dd03800ac003809fdbf2b60",
+    "pressure_spring/06.png": "73194797c27ff1cd0ff7db40bcf34737b3367ded2b461d47041cda396eecd311",
+    "pressure_spring/07.png": "3e4053be2641694f73f62cb3bd5e9411dd4b4184a022e5733965327c450a85b7",
+    "pressure_spring/08.png": "8eb7d73fb6856bad75629792358f8112ef6378b997dd901ea2ac49a182d1fdf4",
+    "pressure_spring/09.png": "f9f55b1abc85e693fcd16b5cb7996691c324bf3d2c3c7affbbca1803aec324d1",
+    "pressure_spring/10.png": "9080f64c0e9b6679e2d22ed802918e6d51f0f6119fd40bfe64cb77933ed10675",
+    "pressure_spring/11.png": "6def2dc96c7b681f1140b1eb54920c7ec1554ef612e7fccb1b7861af93ec35c9",
+    "pressure_spring/12.png": "2a5188ae3414698e4f3d01389243531cd0b55b849fc0f05c92b56bd58083f5c2",
+    "pressure_spring/13.png": "8a681e24419b76512be13760542f4b08328ddd12588bf204d7426ff04bab07b2",
+    "pressure_spring/14.png": "0093b6c2112f1ff330ca0eddea6cc5df0194e767754a65c4a5663cd5c873012c",
+    "pressure_spring/15.png": "e040f834b347d31ead9a2aa23b4be6c7d671cfa99df8bbdef55135a4aacf3d96",
+    "pressure_spring/16.png": "cf0f1c314a23f820b76966a2858aac7cff9ace4d0855125e7ea182f08f3f4376",
+    "pressure_spring/17.png": "76b04537b90152416e8e03fb7eddf5c0f43d9294c4ca0f9b881fe63a4c6c57b2",
+    "pressure_spring/18.png": "de7b9ac0d59c226d77178ea344d5694e9ec57156b139e47c2dc452611baf2912",
+    "pressure_spring/19.png": "f288b5edabda2ba162b38470801074e8d8bb37ba3b4efde9b3f5c38becb58ccf",
+    "pressure_spring/20.png": "f146d0fc01abbf785e491532fb0526cd9efa60b89553c48571d3662bd62e717c",
+    "pressure_spring/21.png": "f8f6309548b3ac0fe019491dd3f3a768e38faa2f52bf75d49bbc0be83b8b7b65",
+    "pressure_spring/22.png": "518012069a578ca191a13e2fb84adfad051d62467be14a1f8bd5e8ad1f95589c",
+    "pressure_spring/23.png": "ff7e994e6ed6ced9c6076e3adeebae089e87de78ecb421d0a0fe592415022344",
+    "pressure_spring/24.png": "e0a4e2680a32d3bb057406e6109c5554808ecff6bed15ca865118b8aa7463b32",
+    "pressure_spring/25.png": "6408fac488f4578732b079460d05cfbda2992d18eceda8556f7523880845b097",
+    "pressure_spring/26.png": "f74928123b2831f9f533df9cfd065771985f91d47bdb7120dba9cdb53d7eaa95",
+    "pressure_spring/27.png": "61a2ed27ae45e2068bc61a0875a486e374ebafbd500d81a1e33192d8950b05f0",
+    "pressure_spring/28.png": "ff4095e37b810e22c81553e6b62ff7717b5e5584e59e54646f8738b90c18b885"
+  }
+}

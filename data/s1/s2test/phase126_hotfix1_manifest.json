@@ -1,0 +1,55 @@
+{
+  "phase": "126-hotfix1",
+  "baseline": "Sonic1PC_S2SkyChase_Phase126.zip",
+  "sky_chase_warp": "KEY_KP_0",
+  "files": {
+    "scripts/objects/s2_scz_object.gd": {
+      "bytes": 11466,
+      "sha256": "024aedb7534be632d0cf06830be38d1d76e8d531136b7ef23bb19e1be8a75838"
+    },
+    "scripts/objects/s2_mtz_boss_object.gd": {
+      "bytes": 16548,
+      "sha256": "83452f3a66f3ec579894d786657aa6c9d8f953417a70c9278fc59fa5b2ac6c1d"
+    },
+    "scripts/objects/object_manager.gd": {
+      "bytes": 93578,
+      "sha256": "88b1c3701452697223f966b7cd3524b501a890adca5b55af856b36ebc57016ec"
+    },
+    "scripts/main.gd": {
+      "bytes": 75229,
+      "sha256": "a771f558029dc2b837bc92392b726e455d06160c1c51927fd78b68e8543b9f6e"
+    },
+    "scripts/camera/sonic_camera.gd": {
+      "bytes": 37254,
+      "sha256": "75a24aa3da41dc6b1af8839c6bf5ed7cef68608bbb9a0176b3312a01e330076c"
+    },
+    "scripts/render/ghz_background_renderer.gd": {
+      "bytes": 84920,
+      "sha256": "e17704fae709b5e5e1c7f0455337896e1841d1457e6be20d81843ce7f0bbb04b"
+    },
+    "scripts/data/level_catalog.gd": {
+      "bytes": 33860,
+      "sha256": "7bf7199ae2273ab98598acd4b1cfb0e0c992fe15ec0e2eb05ac2860ca692529a"
+    },
+    "assets/objects/s2_scz/pilot/00.png": {
+      "bytes": 375,
+      "sha256": "e4df47518c73b5b35d8bcd3bf99e0f5931e371b6f1d43668d6f3d1a820b3160b"
+    },
+    "assets/objects/s2_scz/pilot/01.png": {
+      "bytes": 399,
+      "sha256": "5e7599e3f71377c7f603651ca7dd4fe7840d101f9badae9db86492f1673f7bc6"
+    },
+    "assets/objects/s2_scz/pilot/02.png": {
+      "bytes": 385,
+      "sha256": "60f5eed4f49cb1d5645b9535b29194667bbf8051c3947da97b774389b4148cd8"
+    },
+    "assets/objects/s2_scz/pilot/03.png": {
+      "bytes": 378,
+      "sha256": "b5eed9bfe5f72ff4f7346906ff1274c4a011b0d02394323f35ac7c16bbabb8d7"
+    },
+    "assets/objects/s2_scz/pilot/04.png": {
+      "bytes": 401,
+      "sha256": "348b5b4bfaa79ec909b1dc06ef251d1a7eeaf87d62c6436e01b7324b07f49e60"
+    }
+  }
+}

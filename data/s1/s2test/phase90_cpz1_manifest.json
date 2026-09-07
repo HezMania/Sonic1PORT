@@ -1,0 +1,100 @@
+{
+  "phase": 90,
+  "level": "Chemical Plant Zone Act 1",
+  "start": [
+    96,
+    492
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10112,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "object_records": 153,
+  "shared_supported_records": 88,
+  "deferred_cpz_specific_records": 65,
+  "object_counts_hex": {
+    "03": 60,
+    "0B": 4,
+    "0D": 1,
+    "19": 7,
+    "1B": 8,
+    "1D": 7,
+    "1E": 9,
+    "26": 19,
+    "2D": 2,
+    "32": 4,
+    "41": 5,
+    "6B": 2,
+    "74": 2,
+    "78": 2,
+    "79": 3,
+    "7B": 5,
+    "A5": 10,
+    "A6": 1,
+    "A7": 2
+  },
+  "decoded_sizes": {
+    "art": 27744,
+    "vram_art": 65536,
+    "map16_base": 5600,
+    "map16_apm": 6144,
+    "map128": 32768,
+    "layout": 4096,
+    "colp": 768,
+    "cols": 768
+  },
+  "apm_cpz": {
+    "destination": 6136,
+    "bytes": 8
+  },
+  "music": {
+    "id": 407,
+    "tempo": 238,
+    "voices": 6,
+    "labels": 772,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "source_sha256": {
+    "art": "588b1eba73a752c333c827cf3873fed71accc49955771ee4c5831f87e54b4efb",
+    "map16": "7af50a1b4a05898f4be5c064d75c334222e2647dfc6e8a28852d61f84a626224",
+    "map128": "998218c2c41a9334da5a0a55e4a08a307d0a74f4177ff1b42faad2bd4d0f0f64",
+    "layout": "667cecf7da2760bf822a7d1206938c3601a58f2b2f884a65a4403403dd4ef8f1",
+    "objects": "672c6b5ed672b889ad8629662f8e569fafca953046bfeeff999207bae17a4046",
+    "rings": "a2ab3c95994e18ad2114d2f678ab4b2474046d7007877a8e506cccb4f55a9884",
+    "start": "450a3b0255a87138a7d56f12f3cc184fc9f7caafdb4837cfeca7a7bf4281c293",
+    "colp": "cfd7ca1a977a9aeefaa657a368460e391af55f33bb53f1f94ecbdadfafa67021",
+    "cols": "c2c373bf8fa2db0d60ed3907a98bb0737610544e87d6095ec3995a218f873694",
+    "pal": "345f06d4282de86e4d9b1763e766c00012c6d3a1a25100cdbc1db4a81a385b35",
+    "anim": "6b98bdb66624a4cf6fe3155c7fdd8f1b03476c46d00de83037a65172428d7b2b",
+    "cycle1": "b1332ae6afe2a6b49d656de937899d1f9e4ec6962de002b5f19fb7534f4a31ba",
+    "cycle2": "2f5d42a7ed15feca6216864caa4b4d510e83631c82bd8be91d4415aee17e8c07",
+    "cycle3": "e5c103b900235d4c8176f234d43c0c50f8c8390bd57687b5a871b94fc50a09a2",
+    "music": "9a17986978c8bde634a02ff3db47a41ce1d2659698e4cc1664e48d505a56173a"
+  },
+  "output_sha256": {
+    "cpz1_art.bin": "a7f3dccba81cdc8de51fced1ddf6252f8c71642d02be7e73a85fd561d4d7b358",
+    "cpz1_map16.bin": "e8409c5980a4a4ef235aa356a6865c87ee468c135460aab16c12dd8e0a76021c",
+    "cpz1_map128.bin": "9b7931159c10f9f19ce9f23af706b37eb9e76c005c1f7e8ba0fd5e19965aa592",
+    "cpz1_layout128.bin": "7e0304aa251988b2a25402fa123bb8b8467196a71d9703068f62365bde7adcc5",
+    "cpz1_bg128.bin": "fb443123dd2458f0ffbba8a426fc27fe5c781ad9bddac1bba4922d82219150f1",
+    "cpz1_collision_primary.bin": "0791eae023c18610a2277f9f2f050057865f47f8beb07b1cb2726ec003934cf2",
+    "cpz1_collision_secondary.bin": "c72d151bf3e1a813b580597d834ca9f6d5628f948419a1563dc55801da73195c",
+    "cpz1_objects.bin": "672c6b5ed672b889ad8629662f8e569fafca953046bfeeff999207bae17a4046",
+    "cpz1_rings.bin": "a2ab3c95994e18ad2114d2f678ab4b2474046d7007877a8e506cccb4f55a9884",
+    "cpz1_start.bin": "450a3b0255a87138a7d56f12f3cc184fc9f7caafdb4837cfeca7a7bf4281c293",
+    "s2_cpz_anim_back.bin": "6b98bdb66624a4cf6fe3155c7fdd8f1b03476c46d00de83037a65172428d7b2b"
+  }
+}

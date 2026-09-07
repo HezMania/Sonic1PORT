@@ -1,0 +1,12 @@
+Phase 54 derived Waterfall PCM
+Source: data/s1/sound/source/sfx/SndD0 - Waterfall.asm
+Compiled sound ID: 0xD0
+Exact source-note frequency: 1568.685717773 Hz (FNUM 965, block 6)
+Voice hardware mapping: algorithm 0, feedback 7, MUL 15/15/15/15, AR 31/31/31/14
+Offline render rate: 176400 Hz
+Output rate: 44100 Hz stereo PCM16
+Downsample: scipy.signal.resample_poly 1:4 FIR/polyphase
+Output frames: 75852
+Duration: 1.720000 s
+RMS: 0.074520394
+Peak: 0.475156141

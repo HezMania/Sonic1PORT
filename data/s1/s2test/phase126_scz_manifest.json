@@ -1,0 +1,126 @@
+{
+  "phase": 126,
+  "level": "Sky Chase Zone",
+  "start": [
+    288,
+    112
+  ],
+  "limits": {
+    "left": 0,
+    "right": 16383,
+    "top": 0,
+    "bottom": 1280
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "main_art_bytes": 28064,
+  "map16_bytes": 5920,
+  "map128_bytes": 32768,
+  "objects": 60,
+  "object_counts_hex": {
+    "03": 1,
+    "99": 23,
+    "9A": 10,
+    "AC": 19,
+    "B2": 1,
+    "B3": 3,
+    "B4": 1,
+    "B5": 2
+  },
+  "events": {
+    "vx0": 1,
+    "turn_x": 4480,
+    "down_y": 1280,
+    "stop_x": 5120,
+    "finish_player_x": 5480
+  },
+  "plc": {
+    "art/nemesis/The Tornado.bin": {
+      "tile": 1280,
+      "tiles": 79
+    },
+    "art/nemesis/Clouds.bin": {
+      "tile": 1359,
+      "tiles": 18
+    },
+    "art/nemesis/Vertical spinning blades in WFZ.bin": {
+      "tile": 1377,
+      "tiles": 4
+    },
+    "art/nemesis/Balkrie (jet badnik) from SCZ.bin": {
+      "tile": 1381,
+      "tiles": 25
+    },
+    "art/nemesis/Turtle badnik from SCZ.bin": {
+      "tile": 906,
+      "tiles": 57
+    },
+    "art/nemesis/Bomber badnik from SCZ.bin": {
+      "tile": 878,
+      "tiles": 28
+    },
+    "art/nemesis/Horizontal spinning blades in WFZ.bin": {
+      "tile": 973,
+      "tiles": 29
+    }
+  },
+  "sprites": {
+    "tornado": {
+      "frames": 8,
+      "raw_bytes": 22528,
+      "map_bytes": 672
+    },
+    "cloud": {
+      "frames": 4,
+      "raw_bytes": 576,
+      "map_bytes": 62
+    },
+    "vprop": {
+      "frames": 3,
+      "raw_bytes": 128,
+      "map_bytes": 60
+    },
+    "hprop": {
+      "frames": 6,
+      "raw_bytes": 928,
+      "map_bytes": 136
+    },
+    "balkiry": {
+      "frames": 2,
+      "raw_bytes": 800,
+      "map_bytes": 80
+    },
+    "turtloid": {
+      "frames": 10,
+      "raw_bytes": 1824,
+      "map_bytes": 152
+    },
+    "nebula": {
+      "frames": 5,
+      "raw_bytes": 896,
+      "map_bytes": 156
+    }
+  },
+  "music": {
+    "tempo": 91,
+    "voices": 7,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "sha256": {
+    "scz1_art.bin": "725f8d64cf1ba3bdf08dc890b7db09aea1298395e3bca9495323ded4f76822e9",
+    "scz1_map16.bin": "3664071501256118e7a96e215a52e896724a399136400742d320199840391003",
+    "scz1_map128.bin": "4aa1650fc63951839d9e6e546e72490403c77e3a59c5e9f5f764bd795ae85924",
+    "scz1_layout128.bin": "c0272df37d11b1bc4bc069814022bc7855b26789155c6b5dd49574c7c9d6d169",
+    "scz1_bg128.bin": "1043b49436ad5c8cc3d612ee46ea84c506c9f2410d5e955eaf64e8e8caa6012b",
+    "scz1_collision_primary.bin": "6b505f18c04063fdb8f3d0ab7798c262b6b1b408e95706d118a4baa746c015f9",
+    "scz1_collision_secondary.bin": "418c92cd52c40806530200df07edcf04e24e143980f89c317c2b82648ea64877",
+    "scz1_objects.bin": "1a529d9fd98bdac16158bed9fe7e4e586551cb66c7bba5687657fa7b5a609a41",
+    "scz1_rings.bin": "2da3a722475ccd7cecda0dabd2d9d5cd17506108ec46bb9f4c0c24645c8a438d",
+    "scz1_start.bin": "cb0d8432cca4f16bb115b271e070458f769fda1940d46bd526c97847b3c899fa"
+  }
+}

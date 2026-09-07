@@ -1,0 +1,100 @@
+{
+  "phase": 105,
+  "level": "Hill Top Zone Act 1",
+  "start": [
+    96,
+    1007
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10240,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "art": {
+    "main": 29248,
+    "supp": 12352,
+    "supp_tile": 508,
+    "cliffs": 6144,
+    "clouds": 1024,
+    "seeded": {
+      "art/uncompressed/EHZ and HTZ flowers - 1.bin": {
+        "tile": 916,
+        "bytes": 64
+      },
+      "art/uncompressed/EHZ and HTZ flowers - 2.bin": {
+        "tile": 918,
+        "bytes": 64
+      },
+      "art/uncompressed/EHZ and HTZ flowers - 3.bin": {
+        "tile": 920,
+        "bytes": 64
+      },
+      "art/uncompressed/EHZ and HTZ flowers - 4.bin": {
+        "tile": 922,
+        "bytes": 64
+      },
+      "art/uncompressed/Pulsing ball against checkered background (EHZ).bin": {
+        "tile": 924,
+        "bytes": 64
+      }
+    }
+  },
+  "map16": {
+    "base": 4000,
+    "htz_patch_offset": 2432,
+    "htz_patch": 1968,
+    "apm_offset": 6024,
+    "apm": 120
+  },
+  "objects": 144,
+  "already_shared_records": 100,
+  "deferred_htz_specific_records": 44,
+  "object_counts_hex": {
+    "03": 18,
+    "0D": 1,
+    "14": 9,
+    "16": 4,
+    "18": 8,
+    "1C": 16,
+    "26": 8,
+    "2D": 5,
+    "2F": 10,
+    "30": 3,
+    "31": 9,
+    "32": 7,
+    "36": 12,
+    "41": 8,
+    "74": 11,
+    "79": 2,
+    "84": 4,
+    "92": 6,
+    "95": 1,
+    "96": 2
+  },
+  "music": {
+    "id": 410,
+    "tempo": 190,
+    "voices": 4,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "sha256": {
+    "htz1_art.bin": "938f63678d1667563e9ad65b666acaa7bfd3386d5e4785e0134a8f89ba153a81",
+    "htz1_map16.bin": "d15753f31e82dd4c6a86610344b71d28ce729844ba72df1b2b4e3676d452e28e",
+    "htz1_map128.bin": "b3c6a3f0e29f7b74f0dda74e2a19e71467526c0dadfcc0765b7ff24aedfc6903",
+    "htz1_layout128.bin": "3d02b1323b19ce0927ed111d93b7de3e7fda09d00b70697a318beddd0c4c83f5",
+    "htz1_bg128.bin": "a5ba12d37ec0d6f9597c93c61c7eac47881a899c4a514983bd3c94578a95b98d",
+    "htz1_collision_primary.bin": "ed8f26a2b336bd2060d3e7fe14693cfd9b7780f49df74ec58bb6734a9b62de6e",
+    "htz1_collision_secondary.bin": "bf4a5fddc21fff7c798787a888eb17eb9186642a2818ba0f32d0220f341efaf1",
+    "htz1_objects.bin": "42d178750d06c5c54919381a78a6c10e163b3c3f35565bfbeb78c7f04c0a4433",
+    "htz1_rings.bin": "7ed6732566f6a0317c2d2d16cf981cf0847f7cd589c3a24b5de9dfe9df44bbb9",
+    "htz1_start.bin": "78a15467c8750738f4d3142541a9258da2b5dcab4bd2ac0df75f101dee3316a9"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "phase": 103,
+  "level": "Casino Night Zone Act 2",
+  "start": [
+    96,
+    1420
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10880,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "resident_art_bytes": 26112,
+  "map16_base_bytes": 3040,
+  "map16_apm": {
+    "destination": 5984,
+    "bytes": 160
+  },
+  "object_records": 254,
+  "native_placement_records": 254,
+  "deferred_placement_records": 0,
+  "object_counts_hex": {
+    "03": 9,
+    "0D": 1,
+    "26": 16,
+    "3E": 1,
+    "41": 9,
+    "44": 43,
+    "72": 4,
+    "74": 18,
+    "79": 2,
+    "84": 16,
+    "85": 7,
+    "86": 25,
+    "C8": 6,
+    "D2": 4,
+    "D4": 8,
+    "D5": 11,
+    "D6": 14,
+    "D7": 6,
+    "D8": 54
+  },
+  "boss_event_status": "deferred_to_next_phase",
+  "output_sha256": {
+    "cnz2_art.bin": "6b528218a5deaf7b0184e0358a715bc29d686a7d8695efd2f2e63136f2b38e43",
+    "cnz2_map16.bin": "bcb0de113257fc0f9bb0f58cf193a0c02396c8fdba6609348861e9c65b4b801e",
+    "cnz2_map128.bin": "1163d80fb8cd157fcdd767a96c3827b5816172174dd2e5a88b889998972e9bdc",
+    "cnz2_layout128.bin": "6038522926f45f05993dd9735e6a9823f4e61fc4f20e155c1f1a20c90b02a737",
+    "cnz2_bg128.bin": "4575bb90c50b0d16461c729e783b58d8368a5106aa9f96354dc1264bc697ac86",
+    "cnz2_collision_primary.bin": "82cfb5a639b7c28f1abaf6373178fff033e7b4ea63ceb9c9b41dfaacf76010f3",
+    "cnz2_collision_secondary.bin": "d682b2d336338eaa45a0d8dfbc05435c79b10e9cc52125bacdf8bdbf791177f7",
+    "cnz2_objects.bin": "07f1b514f529ef34fc4040174d0b46084d62523c3bfe0956fb7824b9c28152f9",
+    "cnz2_rings.bin": "09af3d16406d55a1f5f792fccf708521a85cfffbe50947c9fa72a5c0c78f1252",
+    "cnz2_start.bin": "49b0cee7a360da6d43902b3c3c70a1a1d23158c0b3f1bc3ca128666f002c7dfc"
+  }
+}

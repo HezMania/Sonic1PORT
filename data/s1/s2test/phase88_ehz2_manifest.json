@@ -1,0 +1,57 @@
+{
+  "phase": 88,
+  "source": "retail Sonic 2 disassembly",
+  "level": "Emerald Hill Zone Act 2",
+  "layout_decoded_bytes": 4096,
+  "foreground_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "start": [
+    96,
+    687
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10560,
+    "top": 0,
+    "bottom": 1056
+  },
+  "object_records": 158,
+  "object_counts_hex": {
+    "41": 12,
+    "1C": 14,
+    "5C": 8,
+    "11": 7,
+    "9D": 9,
+    "36": 20,
+    "26": 12,
+    "4B": 12,
+    "03": 34,
+    "18": 11,
+    "79": 5,
+    "49": 8,
+    "06": 4,
+    "0D": 1,
+    "3E": 1
+  },
+  "source_sha256": {
+    "layout": "60bf6447cff1a746b5361608718dc001531282b859a6d31628772b98c3760176",
+    "objects": "085597aa4015fe5dae207643369b59373953e247d412c705abd03026b42f8671",
+    "rings": "67fce4ab9ae55f77f347cee6af6bdb2966d740f59786c2dc3479cacfa00f12b7",
+    "start": "6e6080c037d444f8d69061e19234cdc56677505a07ea9f0aa330d66d34b8d647",
+    "map128": "3e9c43b6bdfb54adec58192bbebe23e286400cb5dc207c7f90be2d950d7c83ca"
+  },
+  "output_sha256": {
+    "ehz2_layout128.bin": "8914b4f03d3ed343f275e2100c5d04b0892520762499d4b8a8ad6752ca885495",
+    "ehz2_bg128.bin": "ecec9d4bc99370675f9c22ee7fef5444d592d1376854bc88029a7ad1b9d88fea",
+    "ehz2_objects.bin": "085597aa4015fe5dae207643369b59373953e247d412c705abd03026b42f8671",
+    "ehz2_rings.bin": "67fce4ab9ae55f77f347cee6af6bdb2966d740f59786c2dc3479cacfa00f12b7",
+    "ehz2_start.bin": "6e6080c037d444f8d69061e19234cdc56677505a07ea9f0aa330d66d34b8d647"
+  },
+  "shared_native_map128_sha256": "b3c6a3f0e29f7b74f0dda74e2a19e71467526c0dadfcc0765b7ff24aedfc6903"
+}

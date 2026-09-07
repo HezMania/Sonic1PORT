@@ -1,0 +1,60 @@
+{
+  "phase": 114,
+  "boss": "Object $57",
+  "boss_hits": 8,
+  "boss_start": [
+    8608,
+    1376
+  ],
+  "boss_art_tiles": 204,
+  "eggpod_tiles": 96,
+  "eggpod_relative_tile": 320,
+  "falling_art_tiles": 8,
+  "camera": {
+    "prelude_x": 8320,
+    "lock_x": 8432,
+    "bottom": 1488,
+    "top": 1480,
+    "screen_shift": 90,
+    "escape_right": 8768
+  },
+  "arena": {
+    "left_patrol": 8480,
+    "right_patrol": 8704,
+    "bottom_y": 1632
+  },
+  "egg_prison": [
+    8928,
+    1632
+  ],
+  "files": {
+    "assets/objects/s2_mcz/boss/parts/00.png": "302821c3971a1e0dc42a2e1715517c94b29354a1c1b7f6d0bb359a558a7be479",
+    "assets/objects/s2_mcz/boss/parts/01.png": "02b1a50467ecba1f23a9aaa8d8f1fe5caf863cb2538e2e504c1eab29749ddc52",
+    "assets/objects/s2_mcz/boss/parts/02.png": "9e0d139fef732fd8b2d88536bd4ffe581af98e5269ebbe381bcfdb2874487212",
+    "assets/objects/s2_mcz/boss/parts/03.png": "bbce5ee32017771e3124560e938c3d6bb9a5c68e14d116c68a5f6f45407c3888",
+    "assets/objects/s2_mcz/boss/parts/04.png": "0b8332453f676751203eaf6b750f9cdeeb310b8430f33ecf8cfed9fc1e46617f",
+    "assets/objects/s2_mcz/boss/parts/05.png": "f407969f7ad325261be2891e6e4520ae67928e4596e5b6dc8701448a1780e9dd",
+    "assets/objects/s2_mcz/boss/parts/06.png": "0540e1a492d234075a39e6f8de714ae0f5c9fd83589e42ed52ee413f0746780e",
+    "assets/objects/s2_mcz/boss/parts/07.png": "9c6354df666a1c67021a0f8aadb226f9d0871e0c16183f22ce1d0e43d702853d",
+    "assets/objects/s2_mcz/boss/parts/08.png": "6d841f7c77108fe23aae7aa1d6e0f0df72f29084fe1a28ab3d462de5ff2a7022",
+    "assets/objects/s2_mcz/boss/parts/09.png": "39aef3badca0a3ca2db56504358cea760860f3e6c89775c07ac2a217ea04268a",
+    "assets/objects/s2_mcz/boss/parts/10.png": "45b5a48f5dde6a9d24aa2c094842a7eda1f225a215957e1e5e3b95c34c80824a",
+    "assets/objects/s2_mcz/boss/parts/11.png": "783dbfe40b7ba0101c6b435d071728145a5724329c22151d2486455a7db6a394",
+    "assets/objects/s2_mcz/boss/parts/12.png": "324954edc3fd24b969d1e1335a84bdfca124af40113ab5600544a85c2fa6cb61",
+    "assets/objects/s2_mcz/boss/parts/14.png": "41b975a73f1bf6d551354cc64af3f4fab818063c8f1e00aaab8d40b2964b7ec1",
+    "assets/objects/s2_mcz/boss/parts/15.png": "52ddab7a5ad7f9c013cd55e1b84bdee075431b63ed4c29b293c0faa6a7fc105f",
+    "assets/objects/s2_mcz/boss/parts/16.png": "0fe46000d1426c55d0bdf5f989281367c363c794d2a494ba661f581d40c1e3ca",
+    "assets/objects/s2_mcz/boss/parts/17.png": "9926ebd342ce43ac33974875605ac9bce4034c79adab4031e1ee5935c207608a",
+    "assets/objects/s2_mcz/boss/parts/18.png": "0336024856c17ddaf8b41fc3de8190555ca08d1058670895aa5d9b9e4c4be00f",
+    "assets/objects/s2_mcz/boss/parts/19.png": "0753fae657cedef59fb3a546dd3006108fb47009fb118dd1ba609ce4f57a5067",
+    "assets/objects/s2_mcz/boss/falling/13.png": "53851ac80c8641556fa419b2f4154d9ab62eea5cbc7b5087336298551f3f1f18",
+    "assets/objects/s2_mcz/boss/falling/20.png": "6ddfead38bcfcc5e20f1eedbc17753d34fb2008eac0c1d4dd77b93153c37d093",
+    "assets/objects/s2_mcz/egg_prison/00.png": "51b91b56975e9b65926572e1d81b553382d52c351e29dd069e32b6c3b4c31d4c",
+    "assets/objects/s2_mcz/egg_prison/01.png": "1de64d59a54605fafa8d7a79384355f780957ed2d92db4263c52ec68a4603db3",
+    "assets/objects/s2_mcz/egg_prison/02.png": "4cc44e2d68f6d20c99d9cd8896113d924485e4f659fa80d9272c9c48f826d05b",
+    "assets/objects/s2_mcz/egg_prison/03.png": "a9b24dec1c2262eebd2c85c14bff9b7e38581790f6362e3450f5fac037ed8480",
+    "assets/objects/s2_mcz/egg_prison/04.png": "49f2e39a708bf9427747e456aeb6dc5f7f84f272f9245a167f18b898256b92ef",
+    "assets/objects/s2_mcz/egg_prison/05.png": "5108e08c06d91992048ad0cb0c693c58bdc86afa6337dbb5154178f542a03bc3",
+    "data/s1/palette/S2 MCZ Boss.bin": "decc37ba44e60eaf492d395e99c6821d84b9e52636c040d85396bcb79ee4a71f"
+  }
+}

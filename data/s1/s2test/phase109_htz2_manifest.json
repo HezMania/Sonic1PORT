@@ -1,0 +1,59 @@
+{
+  "phase": 109,
+  "level": "Hill Top Zone Act 2",
+  "start": [
+    96,
+    1711
+  ],
+  "limits": {
+    "left": 0,
+    "right": 12928,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "objects": 259,
+  "native_placement_coverage": 259,
+  "object_counts_hex": {
+    "03": 35,
+    "14": 4,
+    "16": 10,
+    "18": 24,
+    "1C": 35,
+    "26": 14,
+    "2D": 10,
+    "2F": 30,
+    "30": 4,
+    "31": 21,
+    "32": 14,
+    "36": 6,
+    "3E": 1,
+    "41": 12,
+    "74": 8,
+    "79": 4,
+    "84": 4,
+    "92": 17,
+    "95": 2,
+    "96": 4
+  },
+  "dynamic_htz_mountain_bytes": 6144,
+  "dynamic_htz_mountain_ram_bytes": 18816,
+  "dynamic_htz_dma_offsets": 96,
+  "sha256": {
+    "htz2_layout128.bin": "378caa201dea62706bff8a163a7bde7976edd586d1273732f05029ee80aee1d7",
+    "htz2_bg128.bin": "9b54db36942b1b82fca097ab9ce4618f3021b6444eff59c00f3447a536361014",
+    "htz2_objects.bin": "c738557e1767d866fbe51605f63527bdc99e35ad08df22f5bf27ce1c115ff809",
+    "htz2_rings.bin": "ff0b0efb08a0ca70bb1b8169dbfa91eb89309c162314cb7142e7a6a45814f008",
+    "htz2_start.bin": "89dbd2be0a1179b705a9e06f06f179b9faefbd949dd16dde2f5dc1a5ad4933a5",
+    "htz2_art.bin": "938f63678d1667563e9ad65b666acaa7bfd3386d5e4785e0134a8f89ba153a81",
+    "htz2_map16.bin": "d15753f31e82dd4c6a86610344b71d28ce729844ba72df1b2b4e3676d452e28e",
+    "htz2_map128.bin": "b3c6a3f0e29f7b74f0dda74e2a19e71467526c0dadfcc0765b7ff24aedfc6903",
+    "htz2_collision_primary.bin": "ed8f26a2b336bd2060d3e7fe14693cfd9b7780f49df74ec58bb6734a9b62de6e",
+    "htz2_collision_secondary.bin": "bf4a5fddc21fff7c798787a888eb17eb9186642a2818ba0f32d0220f341efaf1",
+    "s2_htz_mountain_ram.bin": "36aab270a883a97d6c9890190d57ed57acad572406088f4da0d564455228aa91",
+    "s2_htz_mountain_dma_offsets.bin": "023996ca5c229b6e823ecb7520512d4dad2488302051f5d1428158740fa1d051"
+  }
+}

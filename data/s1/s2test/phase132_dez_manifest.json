@@ -1,0 +1,65 @@
+{
+  "phase": 132,
+  "level": "Death Egg Zone",
+  "source_revision": "retail final",
+  "start": [
+    96,
+    301
+  ],
+  "limits": {
+    "left": 0,
+    "right": 4096,
+    "top": 200,
+    "bottom": 200
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "objects": 5,
+  "object_counts_hex": {
+    "2D": 3,
+    "C6": 1,
+    "C7": 1
+  },
+  "rings_bytes": 2,
+  "apm_dez": {
+    "destination": 6136,
+    "bytes": 8
+  },
+  "animated_tile": 806,
+  "sprites": {
+    "mecha": {
+      "frames": 23,
+      "tiles": 217,
+      "map_bytes": 548
+    },
+    "window": {
+      "frames": 8,
+      "tiles": 416,
+      "map_bytes": 336
+    }
+  },
+  "music": {
+    "id": 416,
+    "tempo": 96,
+    "voices": 6,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "sha256": {
+    "dez1_art.bin": "b8450e0b1377b84e46e36809cd4993c1520ced368de54b8efbb6bc6321fb4c3d",
+    "dez1_map16.bin": "623c53c1238c0663214c23a38e7f2f4f9578623c99ff00d1b31446db078ba791",
+    "dez1_map128.bin": "9b7931159c10f9f19ce9f23af706b37eb9e76c005c1f7e8ba0fd5e19965aa592",
+    "dez1_layout128.bin": "cd14568869ff43fc7cab9017fdd619d4480041e5902d7c842d4608b9521e26aa",
+    "dez1_bg128.bin": "c9a44d4f6e342ca038f4a889306e743b6c58c548e7ce925d28c309e0980c9110",
+    "dez1_collision_primary.bin": "0791eae023c18610a2277f9f2f050057865f47f8beb07b1cb2726ec003934cf2",
+    "dez1_collision_secondary.bin": "c72d151bf3e1a813b580597d834ca9f6d5628f948419a1563dc55801da73195c",
+    "dez1_objects.bin": "7418dacc85fae3b501637a3ff9bb93840f70f271916984530cdc03561c211492",
+    "dez1_rings.bin": "ca2fd00fa001190744c15c317643ab092e7048ce086a243e2be9437c898de1bb",
+    "dez1_start.bin": "b9e57e4f33d885cf07101ede7c1596ed6842356df05dec6d4f8aa7b55186b657",
+    "s2_dez_anim_back.bin": "6b98bdb66624a4cf6fe3155c7fdd8f1b03476c46d00de83037a65172428d7b2b"
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "phase": 123,
+  "banks": {
+    "cylinder_controller": [
+      0
+    ],
+    "rope": [
+      2
+    ],
+    "barrier": [
+      1
+    ],
+    "steam_spring": [
+      7
+    ],
+    "steam": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "button": [
+      0,
+      1,
+      2
+    ],
+    "stomper": [
+      0,
+      1
+    ],
+    "platform": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "cog": [
+      0,
+      1,
+      2
+    ],
+    "spring_wall": [
+      0,
+      1
+    ],
+    "spin_tube_flash": [
+      0,
+      1
+    ],
+    "spike_block": [
+      4
+    ],
+    "moving_spike": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "nut": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "immobile_platform": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "shellcracker": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "slicer": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "asteron": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "lava_cup": [
+      0
+    ],
+    "gear": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31
+    ],
+    "lava_bubble": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "tube_paths": {
+    "0": [
+      [
+        1960,
+        624
+      ],
+      [
+        1872,
+        624
+      ],
+      [
+        1856,
+        640
+      ],
+      [
+        1856,
+        992
+      ],
+      [
+        1872,
+        1008
+      ],
+      [
+        1960,
+        1008
+      ]
+    ],
+    "1": [
+      [
+        3160,
+        1520
+      ],
+      [
+        3624,
+        1520
+      ]
+    ],
+    "2": [
+      [
+        6184,
+        1712
+      ],
+      [
+        6096,
+        1712
+      ],
+      [
+        6080,
+        1728
+      ],
+      [
+        6080,
+        2016
+      ],
+      [
+        6064,
+        2032
+      ],
+      [
+        5976,
+        2032
+      ]
+    ]
+  },
+  "sha256": {
+    "asteron/00.png": "bc222ee681667b4dbbedde738e7fb18bf548b904d46edd02fb609fbb9bdff928",
+    "asteron/01.png": "adcf0f7f58fefd70af0205b653475ebcee1342d67152d2c9654edf546b3af362",
+    "asteron/02.png": "11557c0a95a750e623a595f5a6f021179e1d354ed3764f1e2f45588aca575102",
+    "asteron/03.png": "52f21c6695fc143b020fc3e0cd49a94e9cbe426b29c4bafa94bbac53f4e0cec7",
+    "asteron/04.png": "fb2ae509c259c3ef8628e9db7a1249db8836c61fa0ea5469ca4831a45e8a9145",
+    "barrier/01.png": "d7497cbcc22ca6db60fb9767390757b5ec77b98321c7e55d963854200c88a5af",
+    "button/00.png": "06251643ec42e8f6f8df91bc52f39ad56f7d3bfd28a627974965c12033749c38",
+    "button/01.png": "adbee297b89b4475d39c4876fc94ce08d31b89f5a534030ccca2d61519c250a0",
+    "button/02.png": "5773ae15cd744e47646abccfda9d19f2d68be8b23276815db22ca328654fec9d",
+    "cog/00.png": "f19362250efe46bb0e46748e98ce9c5e1b534b57a1c622cb8e80830837c9d7b4",
+    "cog/01.png": "1d89045fa8f2ea7d20d93ced9fde3fec7911bc0a7148714a725f784be37a3576",
+    "cog/02.png": "1459ff0b5faec769a614f5bba09148c0b4839890f4259780e885bbf6ee036b0b",
+    "cylinder_controller/00.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "gear/00.png": "8696951834796405ee12042fde2ad0e726d0e17d6d84ac1c3938e21316b4d068",
+    "gear/01.png": "388ac8fba0c4a0fc88231df7f7572ebcddf37b0ddd2fd894958868b5aa8a7f00",
+    "gear/02.png": "65113682a001d14df9c7b3c7f389e1e78c20e7be78743d81e802284d7ec3430b",
+    "gear/03.png": "3c08d095dc45756b52fb659e4b9f880c9b908b0d9c7af25b28935bb907dfbd44",
+    "gear/04.png": "9a8d9e16dd8fc4ff8b1b1644e1c2cd78a0b7e58dd27b21ee7c5eeb5297f2816e",
+    "gear/05.png": "d6cc21ddd7545e81998e8a06459e08aecf6ee6df86a96b8cb3cbc467b36e40f2",
+    "gear/06.png": "47725884c46b855dc06e64fda39d3e9880bb24d08ab1feb08741df8060aaa851",
+    "gear/07.png": "2ea48a51fea56fd9d4fbd2ece0a2798f91aa9f5f281bacad643d4cd91b8d0b64",
+    "gear/08.png": "5b211a2a45945b36a11befa877556b0894464d55e84ba92fb34e8dbecb2b6ce6",
+    "gear/09.png": "3ff68f5850a75128a9b302a5b2f64f7b093e0bb850591603bca3905509944ce2",
+    "gear/10.png": "9dff2824035933d9de54c3ea043a1eb5fd576a5c5a17644adcd03006433003a9",
+    "gear/11.png": "291ae63fb371a8ac674d6c6b5fd1b6c43a85ea8841600ad15c7ffc74a3720a3e",
+    "gear/12.png": "8861ffdfdba1842c9f250084e0b27e3b86c7512d0d8ab51e49691af7fe88de16",
+    "gear/13.png": "47583500f28570628b5f118469ef2b0dfde023496cd0926542be35a9169c0c59",
+    "gear/14.png": "c77b36802f4bf5dc57fe8168ab1c0d64e63574ed70702423dff0ecca1665ba52",
+    "gear/15.png": "95458ede5873856213eecf7f5c5b67b76b0cab94c5d2a4dc0d7d3457f67823f3",
+    "gear/16.png": "1da59d9c83a229fff75eea7304b447add2390c58fd4d8daf168a10ccb4dd64e6",
+    "gear/17.png": "6c62ac8d265faf54a3ce9959902cbcdb818235b4ae5a4d7d6d419e24986fd42c",
+    "gear/18.png": "ccd49f26f80d57f7265ca4b75455f2e1328dd200702d05b23171954e8be4237f",
+    "gear/19.png": "cb641ec1adbde60b7a428e49a6a364fed7dbd6d45db09c2505b2c01e664e06b0",
+    "gear/20.png": "2d08085f1e00c08166de9fd16545436a1742c07fe2b731d1a51631cee860ac74",
+    "gear/21.png": "9599cfa542d0f53f575e5d782bc2204dc1c94b2c02b8ba0afc9aed9f1b57bb69",
+    "gear/22.png": "03157083b42d6161ced964f06467e30067374607129d4893387380194492f654",
+    "gear/23.png": "6ce5bd5ea5d36ba4503b7c276e696240578bdda0de1c8aff094dbd0033bcde30",
+    "gear/24.png": "e67e63eac711fa2ba7d7eff80d215c5ee9998a4616ddc2e882b4d418c8c59024",
+    "gear/25.png": "8e9dc9990e66307efba44a1d564ba327ea5091e450be8de8f5be7ac513557826",
+    "gear/26.png": "51bed7334afea7cb473a23132fcb3e2151f480bf670f3ffa08f026780a317c2b",
+    "gear/27.png": "5051fc784baeda6b8befd7cd4c64bbdc438a8517c15cbeaca15bbdb876cc7a88",
+    "gear/28.png": "a47c3da895394bb1a780eb0fee6825f4e0e8ecf1addb817f065749975b2be37a",
+    "gear/29.png": "c7057099a10f24d13910ee58cbd5e76595abbf8e7b3472dab596ae4b80730a10",
+    "gear/30.png": "8fb1668784f2f5cf75311d2dfd38cd1e0b14ebb9eb5cf796fbc89e619380b7f8",
+    "gear/31.png": "b08aa55ce7813c38b807fcf108010ea4f99ebd11171162a30c04acbf6b0141f3",
+    "immobile_platform/00.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "immobile_platform/01.png": "9467283c6118291c98c83bbd6ad99cdf869608b7e4d89e72eaf73dbc1b5e6c39",
+    "immobile_platform/02.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "immobile_platform/03.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "lava_bubble/00.png": "70c394df9941b52515b1b5937dea509a1fb40e5abbe27805d3c74f4f8d7e9ea2",
+    "lava_bubble/01.png": "0035927d338e78efc9aaca5a0bccbffdaaf42989d76fc6acc037dac54a1f28bb",
+    "lava_bubble/02.png": "2449526571527b5985accc9093ab583879a3783c11ad042a53062bdf1693b884",
+    "lava_bubble/03.png": "086fbed33b31b1e4b7530820cac49c90496f789e1f80a6cf68b4a6691fb74f1a",
+    "lava_bubble/04.png": "f95bfbc76419c80657d723d9328b676ac02d2d9114582feb00322c1912fd63ce",
+    "lava_bubble/05.png": "01ba6504e5f576552d2aef761381725874f6a3f30a44e81465610c0dc0cae932",
+    "lava_bubble/06.png": "3f428f0c48205e41707fe65ad63f707c1e371313c689fd02d96a5401135d5564",
+    "lava_cup/00.png": "bbda11c28aea4b6f3ba16a46c3c26525c508a4561d0dc7e017a0c6c0ad27281b",
+    "moving_spike/00.png": "50509e9fe9d8b7820bc5e90d888feed60f2ba71ced585a09db08fb82b18f84f4",
+    "moving_spike/01.png": "c6ef2c367d1223cac27e68e3ec97845d007cc37c6041a054adf08ce9c3b0585d",
+    "moving_spike/02.png": "8062d6ff28915fe5a4c47bf11059b4ae9064054f720c67ca57ac31594864c04c",
+    "moving_spike/03.png": "d3a6dea6eb4dbb407f4e66978b34b5a8be3cf3304173792084d762a7a148857b",
+    "nut/00.png": "e947b78472b0a4aa57e1f10a9dcddef6afc1c2782457987f68890dcb3d6cf5a3",
+    "nut/01.png": "2195d9d0d42b8240ca07dcc0ae43701a2d6c1b80cb86d7fd10f23d3880ed04c4",
+    "nut/02.png": "11191ba25644b707e667d819835886fcaab7fd59f127f3fbcd700a1fab30b61e",
+    "nut/03.png": "9258f82e9406cba2f178d3e19bc61e69e5ef13e5cbcade99c7bdcb1149e4ed27",
+    "platform/00.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "platform/01.png": "9467283c6118291c98c83bbd6ad99cdf869608b7e4d89e72eaf73dbc1b5e6c39",
+    "platform/02.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "platform/03.png": "a0b62c5192a721664861f1b9856e7d515a60b916201ed09f1acd1ea754c9b720",
+    "rope/02.png": "7af36a8ba840978e4a81f5acdea41d1453c876a921432b18637068ba75ff8b4e",
+    "shellcracker/00.png": "4c1853e8f777d0132a9146c4668c04c3c3029edf0a30e49d1152e796ba0cd124",
+    "shellcracker/01.png": "42d0831e2685f52fc0a550af6c5dadaff06f385c9c7c98bf31b3ae82b260d94a",
+    "shellcracker/02.png": "3f6f3d62fc896507f1928e5d0b2e682b4cac75cbb6ef8f40d49a5ba40b1e5cc3",
+    "shellcracker/03.png": "fc82b219c26d19e153f6519d8f6c2cc6a8dfe062ebcf89562b0f32de562115e2",
+    "shellcracker/04.png": "bacd2f86882f2aaede7dd1ab556fa8cab58bd69150c0be17dbe89dfcfe8263fd",
+    "shellcracker/05.png": "226880f39e179d56a548420c385e060db08251efed9c127e520d05919154ee43",
+    "slicer/00.png": "03d9e9b61e001514515d779e80cf5d392f6a3a7d772cca1993dddc1f786a5763",
+    "slicer/01.png": "7315538dd9d77a269f9819c54ef40f43f9c1c488a630dbdd497c824325ea3ebb",
+    "slicer/02.png": "5f28b1c0a529a9ca6a36e460bf2ed06b82c54df4155065e058c2457d59ca2e07",
+    "slicer/03.png": "ba43ecce1f6b25affb91361caa7bee7712c8f39534e79ce08ad16daffe0f18c9",
+    "slicer/04.png": "aef0b5a9e879203a93b6ce8a9f6ff57b640fe0487ec10e3f142b597302e8df0c",
+    "slicer/05.png": "3603a5b0e9152c9f781a7fad5eec09808951f83046d8f153077b32a07e5e91f5",
+    "slicer/06.png": "3e7f741621489d11b6205974440ac485b4886ba7626e5286c69362ca6d289ce4",
+    "slicer/07.png": "fb867148cb0eafd07fee5136eb3b986eec22104a0a4f5898dbefae3251872542",
+    "slicer/08.png": "a7c9bcda104cb74680f736a317f7bdedbd78d07b22f2dc796c60072fc6a4973e",
+    "spike_block/04.png": "f46339f51a3f502fc92229aa935404ebaa8a0fdd90c7ba396cff8b70173c41b4",
+    "spin_tube_flash/00.png": "3f428f0c48205e41707fe65ad63f707c1e371313c689fd02d96a5401135d5564",
+    "spin_tube_flash/01.png": "c2f6641bce7757ce97a7306b7a8e1dda449e04655912f8db8f2b869fe97f1e0c",
+    "spring_wall/00.png": "6fd260d177fab955d3fc40d1916a91723a3e15b00fd834ac0dcb374dc286d46e",
+    "spring_wall/01.png": "3f428f0c48205e41707fe65ad63f707c1e371313c689fd02d96a5401135d5564",
+    "steam/00.png": "38446a35fd4a137c3e668c3efbad9a1b40fdafb2d9bf55a99d59cf55fb7cc910",
+    "steam/01.png": "0aabbade5d022dbe137bf33dedd324f3c29c5ff6ce16dae6d9906f3a9b4c5151",
+    "steam/02.png": "d8f78fb96db0a9eda22ae000359bdcd176936e2340175b000eb5b9ceeb6fd00d",
+    "steam/03.png": "a4413ebe135eb6cf6b82918d02c6a92f2f57fadd746fa84d729f7715523cf8a4",
+    "steam/04.png": "c26b1e6a6716771a7fbdbf2b623f0cba9e2020f0e73b43f2048067b0cf00f321",
+    "steam/05.png": "c0480ba5cd058872c37119a3534bd3bba6ccdb5f1d2c65052c41139a5c5984ac",
+    "steam/06.png": "65de4249da1cfe9408195a5aac4614999a0a8e323fb9ad8a6b985333e20dea83",
+    "steam_spring/07.png": "a2110d77bbed7a1ca1623536a10bd6cbae48f02697b06c0e79de579c2974d046",
+    "stomper/00.png": "755ac22dc814092c43bc2a9d63bc7273d7749042ad95767e73db06e06a8191e8",
+    "stomper/01.png": "2796439435edbd78b5d1aa37fa1b400cae4c6e135f8de834727d5b14a7d682a2"
+  }
+}

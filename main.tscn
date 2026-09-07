@@ -1,0 +1,115 @@
+[gd_scene load_steps=16 format=3]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1_main"]
+[ext_resource type="Script" path="res://scripts/render/ghz_renderer.gd" id="2_renderer"]
+[ext_resource type="Script" path="res://scripts/render/ghz_background_renderer.gd" id="7_background"]
+[ext_resource type="Script" path="res://scripts/collision/collision_debug.gd" id="3_debug"]
+[ext_resource type="Script" path="res://scripts/player/sonic_player.gd" id="4_player"]
+[ext_resource type="Script" path="res://scripts/player/sonic_visual.gd" id="5_visual"]
+[ext_resource type="Script" path="res://scripts/objects/object_manager.gd" id="6_objects"]
+[ext_resource type="Script" path="res://scripts/effects/sonic_effects.gd" id="8_effects"]
+[ext_resource type="Script" path="res://scripts/ui/end_card_ui.gd" id="9_endcard"]
+[ext_resource type="Script" path="res://scripts/ui/sonic_hud.gd" id="10_hud"]
+[ext_resource type="Script" path="res://scripts/ui/game_over_ui.gd" id="11_gameover"]
+
+[ext_resource type="Script" path="res://scripts/render/lz_water_palette.gd" id="12_lzwaterpal"]
+[ext_resource type="Script" path="res://scripts/render/genesis_palette_fade.gd" id="13_level_fade"]
+[ext_resource type="Script" path="res://scripts/ui/level_title_card_ui.gd" id="14_title_card"]
+[sub_resource type="LabelSettings" id="LabelSettings_main"]
+font_size = 8
+font_color = Color(1, 1, 1, 1)
+outline_size = 2
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_main")
+
+[node name="GHZBackgroundRenderer" type="Node2D" parent="."]
+script = ExtResource("7_background")
+
+[node name="GHZRenderer" type="Node2D" parent="."]
+script = ExtResource("2_renderer")
+
+[node name="ObjectManager" type="Node2D" parent="."]
+script = ExtResource("6_objects")
+
+[node name="SonicPlayer" type="Node2D" parent="."]
+z_index = 50
+script = ExtResource("4_player")
+
+[node name="Visual" type="Sprite2D" parent="SonicPlayer"]
+script = ExtResource("5_visual")
+
+[node name="SonicEffects" type="Node2D" parent="."]
+z_index = 52
+script = ExtResource("8_effects")
+
+[node name="CollisionDebug" type="Node2D" parent="."]
+z_index = 200
+script = ExtResource("3_debug")
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(160, 960)
+position_smoothing_enabled = false
+
+[node name="LZWaterPaletteLayer" type="CanvasLayer" parent="."]
+layer = 0
+
+[node name="LZWaterPalette" type="ColorRect" parent="LZWaterPaletteLayer"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("12_lzwaterpal")
+
+[node name="LevelPaletteFade" type="CanvasLayer" parent="."]
+script = ExtResource("13_level_fade")
+
+[node name="LevelTitleCard" type="CanvasLayer" parent="."]
+script = ExtResource("14_title_card")
+
+[node name="UI" type="CanvasLayer" parent="."]
+layer = 1
+
+[node name="Info" type="Label" parent="UI"]
+visible = false
+offset_left = 4.0
+offset_top = 4.0
+offset_right = 316.0
+offset_bottom = 82.0
+label_settings = SubResource("LabelSettings_main")
+text = "Loading Sonic 1 multi-act phase 11..."
+
+[node name="SonicHUD" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("10_hud")
+
+
+[node name="EndCard" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("9_endcard")
+
+[node name="GameOverUI" type="Control" parent="UI"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
+script = ExtResource("11_gameover")
+

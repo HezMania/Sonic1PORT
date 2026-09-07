@@ -1,0 +1,68 @@
+{
+  "phase": 96,
+  "level": "Aquatic Ruin Zone Act 2",
+  "start": [
+    96,
+    894
+  ],
+  "limits": {
+    "left": 0,
+    "right": 16383,
+    "top": 384,
+    "bottom": 1808
+  },
+  "water": {
+    "static_y": 1296
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "background_index_plane": [
+    16384,
+    1536
+  ],
+  "background_unique_chunks": 37,
+  "object_records": 222,
+  "supported_shared_records": 88,
+  "deferred_arz_specific_records": 134,
+  "object_counts_hex": {
+    "03": 28,
+    "15": 4,
+    "18": 10,
+    "1F": 10,
+    "22": 16,
+    "23": 11,
+    "24": 10,
+    "26": 18,
+    "2B": 7,
+    "2C": 9,
+    "3E": 1,
+    "40": 10,
+    "41": 17,
+    "79": 4,
+    "82": 13,
+    "83": 1,
+    "8C": 19,
+    "8D": 4,
+    "8E": 9,
+    "91": 21
+  },
+  "apm_arz": {
+    "destination": 6080,
+    "bytes": 64
+  },
+  "background_vertical_model": "(CameraY-$E0)/2",
+  "output_sha256": {
+    "arz2_layout128.bin": "eb11a61a18e8108d93fc53ab3b717ee967c32b51d47f67d0e7dae4f718b096e8",
+    "arz2_bg128.bin": "39477922f89ad94366b689705dc9c7f5db12790badd45af46b22b75b681cdde8",
+    "arz2_objects.bin": "08f21b09e76d4920e5861d9cdc25329ee304ea69e3171d8551b5c5c729d82297",
+    "arz2_rings.bin": "5e98b0b26283e2dcfea954bde5ae2640ab2402d601b50633dfa2f558a949cd76",
+    "arz2_start.bin": "a8557392f75b165b689b9bd7c6b04aa9ae44258a894c5527da936c91b78ab05c",
+    "arz2_bg_indices.bin": "c4e00df7a1bf1eee898372f54d5b769e230d1334274950a7976392a660b33329"
+  }
+}

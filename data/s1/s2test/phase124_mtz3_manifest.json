@@ -1,0 +1,236 @@
+{
+  "phase": 124,
+  "level": "Metropolis Zone Act 3",
+  "start": [
+    96,
+    524
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10880,
+    "top": -256,
+    "bottom": 2048
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "background_scroll": {
+    "x_divisor": 8,
+    "y_divisor": 4
+  },
+  "art": {
+    "main_bytes": 25344,
+    "main_tiles": 792,
+    "animated": {
+      "art/uncompressed/Spinning metal cylinder (MTZ).bin@34C": {
+        "tile": 844,
+        "source_tile": 0,
+        "source_bytes": 4096,
+        "seed_bytes": 512,
+        "tiles_per_frame": 16
+      },
+      "art/uncompressed/Lava.bin@340": {
+        "tile": 832,
+        "source_tile": 0,
+        "source_bytes": 1536,
+        "seed_bytes": 384,
+        "tiles_per_frame": 12
+      },
+      "art/uncompressed/Animated section of MTZ background.bin@35C": {
+        "tile": 860,
+        "source_tile": 0,
+        "source_bytes": 576,
+        "seed_bytes": 192,
+        "tiles_per_frame": 6
+      },
+      "art/uncompressed/Animated section of MTZ background.bin@362": {
+        "tile": 866,
+        "source_tile": 12,
+        "source_bytes": 576,
+        "seed_bytes": 192,
+        "tiles_per_frame": 6
+      }
+    },
+    "plc": {
+      "art/nemesis/Shellcracker badnik from MTZ.bin@31C": {
+        "source": "art/nemesis/Shellcracker badnik from MTZ.bin",
+        "tile": 796,
+        "tiles": 36,
+        "bytes": 1152
+      },
+      "art/nemesis/Exploding star badnik from MTZ.bin@368": {
+        "source": "art/nemesis/Exploding star badnik from MTZ.bin",
+        "tile": 872,
+        "tiles": 15,
+        "bytes": 480
+      },
+      "art/nemesis/Large spinning wheel from MTZ.bin@378": {
+        "source": "art/nemesis/Large spinning wheel from MTZ.bin",
+        "tile": 888,
+        "tiles": 120,
+        "bytes": 3840
+      },
+      "art/nemesis/Large spinning wheel from MTZ - indent.bin@3F0": {
+        "source": "art/nemesis/Large spinning wheel from MTZ - indent.bin",
+        "tile": 1008,
+        "tiles": 9,
+        "bytes": 288
+      },
+      "art/nemesis/Lava cup from MTZ.bin@3F9": {
+        "source": "art/nemesis/Lava cup from MTZ.bin",
+        "tile": 1017,
+        "tiles": 4,
+        "bytes": 128
+      },
+      "art/nemesis/Bolt end and rope from MTZ.bin@3FD": {
+        "source": "art/nemesis/Bolt end and rope from MTZ.bin",
+        "tile": 1021,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Steam from MTZ.bin@405": {
+        "source": "art/nemesis/Steam from MTZ.bin",
+        "tile": 1029,
+        "tiles": 15,
+        "bytes": 480
+      },
+      "art/nemesis/MTZ spike block.bin@414": {
+        "source": "art/nemesis/MTZ spike block.bin",
+        "tile": 1044,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Spike from MTZ.bin@41C": {
+        "source": "art/nemesis/Spike from MTZ.bin",
+        "tile": 1052,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Button.bin@424": {
+        "source": "art/nemesis/Button.bin",
+        "tile": 1060,
+        "tiles": 16,
+        "bytes": 512
+      },
+      "art/nemesis/Spikes.bin@434": {
+        "source": "art/nemesis/Spikes.bin",
+        "tile": 1076,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Praying mantis badnik from MTZ.bin@43C": {
+        "source": "art/nemesis/Praying mantis badnik from MTZ.bin",
+        "tile": 1084,
+        "tiles": 32,
+        "bytes": 1024
+      },
+      "art/nemesis/Vertical spring.bin@45C": {
+        "source": "art/nemesis/Vertical spring.bin",
+        "tile": 1116,
+        "tiles": 20,
+        "bytes": 640
+      },
+      "art/nemesis/Horizontal spring.bin@470": {
+        "source": "art/nemesis/Horizontal spring.bin",
+        "tile": 1136,
+        "tiles": 12,
+        "bytes": 384
+      },
+      "art/nemesis/Similarly shaded blocks from MTZ.bin@500": {
+        "source": "art/nemesis/Similarly shaded blocks from MTZ.bin",
+        "tile": 1280,
+        "tiles": 54,
+        "bytes": 1728
+      },
+      "art/nemesis/Lava bubble from MTZ.bin@536": {
+        "source": "art/nemesis/Lava bubble from MTZ.bin",
+        "tile": 1334,
+        "tiles": 9,
+        "bytes": 288
+      },
+      "art/nemesis/Small cog from MTZ.bin@55F": {
+        "source": "art/nemesis/Small cog from MTZ.bin",
+        "tile": 1375,
+        "tiles": 12,
+        "bytes": 384
+      },
+      "art/nemesis/Spin tube flash from MTZ.bin@56B": {
+        "source": "art/nemesis/Spin tube flash from MTZ.bin",
+        "tile": 1387,
+        "tiles": 4,
+        "bytes": 128
+      }
+    }
+  },
+  "map16": {
+    "base_bytes": 4800,
+    "apm_offset": 5936,
+    "apm_bytes": 208
+  },
+  "map128_bytes": 32768,
+  "collision_bytes": 768,
+  "objects": 270,
+  "ring_groups": 74,
+  "object_counts_hex": {
+    "06": 2,
+    "1C": 1,
+    "26": 11,
+    "2D": 4,
+    "31": 8,
+    "36": 14,
+    "3E": 1,
+    "41": 9,
+    "42": 9,
+    "47": 1,
+    "64": 3,
+    "65": 39,
+    "66": 11,
+    "67": 5,
+    "68": 7,
+    "69": 10,
+    "6A": 2,
+    "6B": 8,
+    "6C": 1,
+    "6D": 5,
+    "6E": 28,
+    "70": 8,
+    "71": 4,
+    "72": 4,
+    "74": 11,
+    "79": 6,
+    "9F": 3,
+    "A1": 13,
+    "A4": 42
+  },
+  "new_act3_families": {
+    "6A": 2,
+    "6E": 28
+  },
+  "boss_event": {
+    "approach_x": 9520,
+    "follow_lock_x": 10624,
+    "arena_trigger_x": 10880,
+    "arena_x": 10928,
+    "screen_shift_frames": 90,
+    "boss_deferred": true
+  },
+  "obj6e_sprite_sha256": {
+    "circle_platform/00.png": "67101c9fbe77c094598132c8f496bc87ba82b3db4a54b105113286ff23a2d0b5",
+    "circle_platform/01.png": "32e6c814b694104df54c6cd94be7df158300b9e80f44e1b8479b2781f28c4db3",
+    "circle_platform/02.png": "9eede9e11036d485d2dfb13f93343c9d2e23a651b683cfb88322e04f18a612b1",
+    "circle_platform/03.png": "75ae240e097fb73720e4bcbb4c99b09c26d620756180dda8300841a2015daa10"
+  },
+  "sha256": {
+    "mtz3_art.bin": "53320d291ebb5d31828bd1d8a9edf928e970b0019a34db5f80666832067a5203",
+    "mtz3_map16.bin": "6a6880a012d3206dea797ee21dddab43ba515c5799f851c8b373e9c353a85b02",
+    "mtz3_map128.bin": "b4d81cfe544f704767805d0a3b97451947c030655b9c652e5c67acae8ce306f8",
+    "mtz3_layout128.bin": "124898627c90e110fc5c1636fa23cad6a9fa1a6da0bc30af6dd10f1eaac2c52e",
+    "mtz3_bg128.bin": "fde5d221be0ca19e126499092f043a81afbbac47066087d7e35e410ccad59558",
+    "mtz3_collision_primary.bin": "c2a0c8662d9475886bf5a2a4c412ebdcbf4f5a6dc53733faab055f163964046e",
+    "mtz3_collision_secondary.bin": "c2a0c8662d9475886bf5a2a4c412ebdcbf4f5a6dc53733faab055f163964046e",
+    "mtz3_objects.bin": "9d64fd5640ec834d4814ace9c7e87955316ad3ed95e1ba37a287e439bdaae157",
+    "mtz3_rings.bin": "5ccfba5b53e51239d78230b5190052d1e597f22f4d63233d6d63b2dd1144d0b7",
+    "mtz3_start.bin": "7be02ee1937c4edf5fc3eb002e06d344acaec7a44cc5cf1b90fbd5d05c4488c1"
+  }
+}

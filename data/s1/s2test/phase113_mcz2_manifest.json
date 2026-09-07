@@ -1,0 +1,74 @@
+{
+  "phase": 113,
+  "level": "Mystic Cave Zone Act 2",
+  "start": [
+    96,
+    1452
+  ],
+  "limits": {
+    "left": 0,
+    "right": 16383,
+    "top": 96,
+    "bottom": 1824
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "object_records": 148,
+  "object_counts_hex": {
+    "0D": 1,
+    "15": 2,
+    "1F": 16,
+    "26": 13,
+    "2A": 5,
+    "36": 21,
+    "3E": 1,
+    "40": 9,
+    "41": 12,
+    "6A": 3,
+    "75": 11,
+    "76": 3,
+    "77": 2,
+    "79": 4,
+    "7A": 3,
+    "7F": 7,
+    "80": 8,
+    "81": 7,
+    "9E": 6,
+    "A3": 14
+  },
+  "native_routed_records": 148,
+  "active_traversal_records": 146,
+  "act2_disabled_signpost_records": 1,
+  "boss_gated_egg_prison_records": 1,
+  "dynamic_event": {
+    "trigger_x": 8320,
+    "arena_x": 8432,
+    "bottom": 1488,
+    "top_lock_y": 1480,
+    "screen_shift": 90
+  },
+  "boss": "Object $57 / complete boss sequence deferred to Phase 114",
+  "source_sha256": {
+    "layout": "92e47cbaede87a826543aadb319ac3f3c180b4d96e085756be375e008d4427a8",
+    "objects": "9757cb70f2848db0bb64e2fb600a5228c6a94e5e58a3cf03673ff93d7f0175c6",
+    "rings": "90f03ae252c3325e7fea67dc24378a4050208d434aae017f0b49e7fe4b87ccad",
+    "start": "34483e3a89bbd5b716e52b748dad44470c88a14cbcc0841931118e852e0f3de1",
+    "lever_art": "dfb3767c89a88fbec448b8cca67a3b661f9cfa7d4e3a260567a75633384e1f89",
+    "lever_map": "b9cedb7bfdb02e0ceab24be6a55d93be7d66ad2cbabd4e80f03b1d2c0d23c855",
+    "sonic_palette": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62",
+    "zone_palette": "720baa45b0f2a535ca6e4ff16a5710a2822e1a487e7ffc51ef9ec586cd8d5cac"
+  },
+  "output_sha256": {
+    "mcz2_layout128.bin": "848ddb9bd452ad046f69c0f9ef1ad52b46a30086be5cfb6e957c328d67ed7035",
+    "mcz2_bg128.bin": "fd8bb852c6ecd8fdbb531023e02e9f809abc43d2c9548515008a69c5a720e443",
+    "mcz2_objects.bin": "9757cb70f2848db0bb64e2fb600a5228c6a94e5e58a3cf03673ff93d7f0175c6",
+    "mcz2_rings.bin": "90f03ae252c3325e7fea67dc24378a4050208d434aae017f0b49e7fe4b87ccad",
+    "mcz2_start.bin": "34483e3a89bbd5b716e52b748dad44470c88a14cbcc0841931118e852e0f3de1"
+  }
+}

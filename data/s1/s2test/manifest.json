@@ -1,0 +1,83 @@
+{
+  "source": "user-supplied Sonic 2 retail disassembly",
+  "level": "Emerald Hill Zone Act 1",
+  "decoded_sizes": {
+    "main_art": 29248,
+    "seeded_vram_art": 65536,
+    "base_map16": 4000,
+    "map16_with_apm": 6144,
+    "map128": 32768,
+    "layout": 4096,
+    "colp": 768,
+    "cols": 768
+  },
+  "animated_block_patch": {
+    "destination": 6024,
+    "bytes": 120,
+    "first_block": 753,
+    "last_block": 767
+  },
+  "seeded_animated_art": {
+    "art/uncompressed/EHZ and HTZ flowers - 1.bin": {
+      "destination_tile": 916,
+      "source_tile": 0,
+      "bytes": 64
+    },
+    "art/uncompressed/EHZ and HTZ flowers - 2.bin": {
+      "destination_tile": 918,
+      "source_tile": 2,
+      "bytes": 64
+    },
+    "art/uncompressed/EHZ and HTZ flowers - 3.bin": {
+      "destination_tile": 920,
+      "source_tile": 0,
+      "bytes": 64
+    },
+    "art/uncompressed/EHZ and HTZ flowers - 4.bin": {
+      "destination_tile": 922,
+      "source_tile": 0,
+      "bytes": 64
+    },
+    "art/uncompressed/Pulsing ball against checkered background (EHZ).bin": {
+      "destination_tile": 924,
+      "source_tile": 0,
+      "bytes": 64
+    }
+  },
+  "converted_unique_256_chunks": 95,
+  "layout_256": [
+    64,
+    8
+  ],
+  "start": [
+    96,
+    655
+  ],
+  "source_sha256": {
+    "art": "748bfd6fab6a09bdaa7399e120596711bc7ccf9773b8a0c6546250cab1f08234",
+    "map16": "bdc6983ff12ba0fdb066de4565f9c097399d1cb56fbba790a9860b86e0e43774",
+    "map128": "3e9c43b6bdfb54adec58192bbebe23e286400cb5dc207c7f90be2d950d7c83ca",
+    "layout": "42b5203bcd7c5f18fec40d520c4628edc008cd6c08ba6c354aa6e16b31f61c23",
+    "colp": "b36a7f23e865eaa8466362c9ae4c764e2d559fb7c39df60dbca632d86c702b6a",
+    "cols": "a5a555c8828a891b4210ae6f4819505c36a4b0f8189b7ca61c5dd8c8be0b8635",
+    "coln": "9bb911af6f09617a6306a70159a91918891bcb58b81f462482f0d6fe0f92f150",
+    "colr": "f101cd6c4bfd69bd524053421c88521d572e206663a489b77d16b69de5ef60b2",
+    "angle": "a30f649ff0f9bbaf3b826a039d0be92dc53ab92816775132c97bdb97bf1dd578",
+    "pal": "64880597a3704229c42bd42db78d08057ae28ccda42f6595aac799b7afe2f6e9",
+    "start": "97c65b54ee27c3f82db32bf6ead3a832368289e2b35d65c918bd93ea8bbf5ad7"
+  },
+  "output_sha256": {
+    "ehz1_art.bin": "c82b445e0c1d023ba69456e4cf5b706f6bf320fa750bdc84bf0380a93b7125c7",
+    "ehz1_map16.bin": "80697dd2684dbaa88e7665c57c3abee7e626f1c20b5103f869551b483d741f43",
+    "ehz1_map256.bin": "7f671eaee1e26c669993d02d11e4bb85cd3398d7d61340464241d84ae79a4a2d",
+    "ehz1_layout.bin": "91b82c07c90eb7fb0dcc349fc09ad6c36993f3f9b2ae3ed21eb33969e1f23889",
+    "ehz1_bg.bin": "57e292fd26094d4a0c0f012464138f083f680ed8031723b7f04302c87613ebf2",
+    "ehz1_collision_primary.bin": "ed8f26a2b336bd2060d3e7fe14693cfd9b7780f49df74ec58bb6734a9b62de6e",
+    "ehz1_collision_secondary.bin": "bf4a5fddc21fff7c798787a888eb17eb9186642a2818ba0f32d0220f341efaf1",
+    "collision_normal.bin": "9bb911af6f09617a6306a70159a91918891bcb58b81f462482f0d6fe0f92f150",
+    "collision_rotated.bin": "f101cd6c4bfd69bd524053421c88521d572e206663a489b77d16b69de5ef60b2",
+    "angle_map.bin": "a30f649ff0f9bbaf3b826a039d0be92dc53ab92816775132c97bdb97bf1dd578",
+    "ehz1_start.bin": "97c65b54ee27c3f82db32bf6ead3a832368289e2b35d65c918bd93ea8bbf5ad7",
+    "empty_objects.bin": "c5d0356d6e6e9d0e6a0fdc00a0357d822cbbf76d257e5d702f8ccf13f70dc8fa"
+  }
+}

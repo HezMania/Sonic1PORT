@@ -1,0 +1,61 @@
+{
+  "phase": 118,
+  "boss": "Object $55",
+  "boss_hits": 8,
+  "boss_start": [
+    10560,
+    720
+  ],
+  "boss_art_tiles": 181,
+  "camera": {
+    "oil_transition_x": 9832,
+    "oil_y": 728,
+    "arena_lock_x": 10368,
+    "arena_max_x": 10432,
+    "camera_bottom": 480,
+    "camera_top": 472,
+    "screen_shift": 90,
+    "defeat_right": 10784
+  },
+  "laser_targets_y": [
+    568,
+    560,
+    576,
+    607
+  ],
+  "egg_prison": [
+    10944,
+    576
+  ],
+  "files": {
+    "assets/objects/s2_ooz/boss/parts/00.png": "3f428f0c48205e41707fe65ad63f707c1e371313c689fd02d96a5401135d5564",
+    "assets/objects/s2_ooz/boss/parts/01.png": "a60189091a6d5aa8c76a5aa998c7340520b192dbd1907ac24008548b87909e80",
+    "assets/objects/s2_ooz/boss/parts/02.png": "b228c2131585bf4ba67e04f96973ebefcf8a5694bfe688fceef66828fd3d0894",
+    "assets/objects/s2_ooz/boss/parts/03.png": "1fc9d30de902b2bb3716c5b921a38262eb409ed757d8abd4374e6bbbc4780744",
+    "assets/objects/s2_ooz/boss/parts/04.png": "0c0f55a6b7024d8d5ab7f81ef8f5cd9baa7b856ea94fa547a92e36688b620d79",
+    "assets/objects/s2_ooz/boss/parts/05.png": "6b335276468863e99e14844defd5f3105d2a1262cb5eba6bb2de9ffd73bae4bc",
+    "assets/objects/s2_ooz/boss/parts/06.png": "2bdda22987413f7d50bad88c7fa1105804d043192b992c0f9204e06e613895f5",
+    "assets/objects/s2_ooz/boss/parts/07.png": "6e2fb9883c1eea156a200e6a9f6bd57df8196ec1601b91cded514ee686a3d9e2",
+    "assets/objects/s2_ooz/boss/parts/08.png": "c3656d4a9708c2962a5e3ce3fa8540c31a6c925b010b260a2dffbf62cd2403fb",
+    "assets/objects/s2_ooz/boss/parts/09.png": "34c8c5c2b812ca8629b6bf5a9a76a9a9956388ae66962353f137c3dea849f8d6",
+    "assets/objects/s2_ooz/boss/parts/10.png": "f4f267c3cb1f1941c6582f7563993e37a9cc6df6fd14f055edb2e288aa584014",
+    "assets/objects/s2_ooz/boss/parts/11.png": "6eef0153e886dc5b9eba24d10765e1fda40a81d4317ffd5ee6e57976f80b28dd",
+    "assets/objects/s2_ooz/boss/parts/12.png": "72a503a9752cb8e40a5922b9f4965545da44202e2b4193ee686cac1e57c09e1f",
+    "assets/objects/s2_ooz/boss/parts/13.png": "57ecc0cfe0bf313b009ec78ecfa6fb99ce78d217f04e18c52a3072a5e0aef64b",
+    "assets/objects/s2_ooz/boss/parts/14.png": "e75263a2fb43b2b8e292bcdec6b0ae9a4fad6c4b8d98e82e3038182eaa36c68e",
+    "assets/objects/s2_ooz/boss/parts/15.png": "1d2697e89c8e287cbb2c5e91c9a68e617bb90a6dadda27113840ac0b4eec8040",
+    "assets/objects/s2_ooz/boss/parts/16.png": "faa8bad6eb2890f2a6f336afad744a88c9e25c27dd5ca4e8bcdf68b5c684f11e",
+    "assets/objects/s2_ooz/boss/parts/17.png": "57ecc0cfe0bf313b009ec78ecfa6fb99ce78d217f04e18c52a3072a5e0aef64b",
+    "assets/objects/s2_ooz/boss/parts/18.png": "e75263a2fb43b2b8e292bcdec6b0ae9a4fad6c4b8d98e82e3038182eaa36c68e",
+    "assets/objects/s2_ooz/boss/parts/19.png": "1d2697e89c8e287cbb2c5e91c9a68e617bb90a6dadda27113840ac0b4eec8040",
+    "assets/objects/s2_ooz/boss/parts/20.png": "faa8bad6eb2890f2a6f336afad744a88c9e25c27dd5ca4e8bcdf68b5c684f11e",
+    "assets/objects/s2_ooz/boss/parts/21.png": "a4b7b40663ec5487ae637ef27c79ff7f0b6a298cfcd998cdc0eae142fee71764",
+    "assets/objects/s2_ooz/egg_prison/00.png": "51b91b56975e9b65926572e1d81b553382d52c351e29dd069e32b6c3b4c31d4c",
+    "assets/objects/s2_ooz/egg_prison/01.png": "1de64d59a54605fafa8d7a79384355f780957ed2d92db4263c52ec68a4603db3",
+    "assets/objects/s2_ooz/egg_prison/02.png": "4cc44e2d68f6d20c99d9cd8896113d924485e4f659fa80d9272c9c48f826d05b",
+    "assets/objects/s2_ooz/egg_prison/03.png": "a9b24dec1c2262eebd2c85c14bff9b7e38581790f6362e3450f5fac037ed8480",
+    "assets/objects/s2_ooz/egg_prison/04.png": "49f2e39a708bf9427747e456aeb6dc5f7f84f272f9245a167f18b898256b92ef",
+    "assets/objects/s2_ooz/egg_prison/05.png": "5108e08c06d91992048ad0cb0c693c58bdc86afa6337dbb5154178f542a03bc3",
+    "data/s1/palette/S2 OOZ Boss.bin": "b194466fcc2f7c7865af9b23618dbbaf729bf36d85339f1a66fd5282e57fbf05"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "phase": 115,
+  "level": "Oil Ocean Zone Act 1",
+  "start": [
+    96,
+    1708
+  ],
+  "limits": {
+    "left": 0,
+    "right": 12160,
+    "top": 0,
+    "bottom": 1664
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "background_cache": [
+    6,
+    4
+  ],
+  "art": {
+    "main_bytes": 21792,
+    "main_tiles": 681,
+    "animated": {
+      "art/uncompressed/Pulsing ball (OOZ).bin": {
+        "tile": 694,
+        "source_bytes": 384,
+        "seed_bytes": 128,
+        "tiles_per_frame": 4
+      },
+      "art/uncompressed/Square rotating around ball in OOZ - 1.bin": {
+        "tile": 698,
+        "source_bytes": 512,
+        "seed_bytes": 128,
+        "tiles_per_frame": 4
+      },
+      "art/uncompressed/Square rotating around ball in OOZ - 2.bin": {
+        "tile": 702,
+        "source_bytes": 512,
+        "seed_bytes": 128,
+        "tiles_per_frame": 4
+      },
+      "art/uncompressed/Oil - 1.bin": {
+        "tile": 706,
+        "source_bytes": 2048,
+        "seed_bytes": 512,
+        "tiles_per_frame": 16
+      },
+      "art/uncompressed/Oil - 2.bin": {
+        "tile": 722,
+        "source_bytes": 2048,
+        "seed_bytes": 512,
+        "tiles_per_frame": 16
+      }
+    },
+    "plc": {
+      "art/nemesis/Green flame from OOZ burners.bin@2E2": {
+        "source": "art/nemesis/Green flame from OOZ burners.bin",
+        "tile": 738,
+        "tiles": 18,
+        "bytes": 576
+      },
+      "art/nemesis/Rising platform from OOZ.bin@2F4": {
+        "source": "art/nemesis/Rising platform from OOZ.bin",
+        "tile": 756,
+        "tiles": 24,
+        "bytes": 768
+      },
+      "art/nemesis/Spiked ball from OOZ.bin@30C": {
+        "source": "art/nemesis/Spiked ball from OOZ.bin",
+        "tile": 780,
+        "tiles": 32,
+        "bytes": 1024
+      },
+      "art/nemesis/Burner Platform from OOZ.bin@32C": {
+        "source": "art/nemesis/Burner Platform from OOZ.bin",
+        "tile": 812,
+        "tiles": 6,
+        "bytes": 192
+      },
+      "art/nemesis/4 stripy blocks from OOZ.bin@332": {
+        "source": "art/nemesis/4 stripy blocks from OOZ.bin",
+        "tile": 818,
+        "tiles": 4,
+        "bytes": 128
+      },
+      "art/nemesis/Cascading oil hitting oil from OOZ.bin@336": {
+        "source": "art/nemesis/Cascading oil hitting oil from OOZ.bin",
+        "tile": 822,
+        "tiles": 16,
+        "bytes": 512
+      },
+      "art/nemesis/Cascading oil from OOZ.bin@346": {
+        "source": "art/nemesis/Cascading oil from OOZ.bin",
+        "tile": 838,
+        "tiles": 13,
+        "bytes": 416
+      },
+      "art/nemesis/Ball on spring from OOZ (beta holdovers).bin@354": {
+        "source": "art/nemesis/Ball on spring from OOZ (beta holdovers).bin",
+        "tile": 852,
+        "tiles": 20,
+        "bytes": 640
+      },
+      "art/nemesis/Transporter ball from OOZ.bin@368": {
+        "source": "art/nemesis/Transporter ball from OOZ.bin",
+        "tile": 872,
+        "tiles": 53,
+        "bytes": 1696
+      },
+      "art/nemesis/OOZ collapsing platform.bin@39D": {
+        "source": "art/nemesis/OOZ collapsing platform.bin",
+        "tile": 925,
+        "tiles": 40,
+        "bytes": 1280
+      },
+      "art/nemesis/Push spring from OOZ.bin@3C5": {
+        "source": "art/nemesis/Push spring from OOZ.bin",
+        "tile": 965,
+        "tiles": 30,
+        "bytes": 960
+      },
+      "art/nemesis/Swinging platform from OOZ.bin@3E3": {
+        "source": "art/nemesis/Swinging platform from OOZ.bin",
+        "tile": 995,
+        "tiles": 28,
+        "bytes": 896
+      },
+      "art/nemesis/4 stripy blocks from OOZ.bin@3FF": {
+        "source": "art/nemesis/4 stripy blocks from OOZ.bin",
+        "tile": 1023,
+        "tiles": 4,
+        "bytes": 128
+      },
+      "art/nemesis/Fan from OOZ.bin@403": {
+        "source": "art/nemesis/Fan from OOZ.bin",
+        "tile": 1027,
+        "tiles": 30,
+        "bytes": 960
+      },
+      "art/nemesis/Button.bin@424": {
+        "source": "art/nemesis/Button.bin",
+        "tile": 1060,
+        "tiles": 16,
+        "bytes": 512
+      },
+      "art/nemesis/Spikes.bin@434": {
+        "source": "art/nemesis/Spikes.bin",
+        "tile": 1076,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Diagonal spring.bin@43C": {
+        "source": "art/nemesis/Diagonal spring.bin",
+        "tile": 1084,
+        "tiles": 32,
+        "bytes": 1024
+      },
+      "art/nemesis/Vertical spring.bin@45C": {
+        "source": "art/nemesis/Vertical spring.bin",
+        "tile": 1116,
+        "tiles": 20,
+        "bytes": 640
+      },
+      "art/nemesis/Horizontal spring.bin@470": {
+        "source": "art/nemesis/Horizontal spring.bin",
+        "tile": 1136,
+        "tiles": 12,
+        "bytes": 384
+      },
+      "art/nemesis/Seahorse from OOZ.bin@500": {
+        "source": "art/nemesis/Seahorse from OOZ.bin",
+        "tile": 1280,
+        "tiles": 56,
+        "bytes": 1792
+      },
+      "art/nemesis/Octopus badnik from OOZ.bin@538": {
+        "source": "art/nemesis/Octopus badnik from OOZ.bin",
+        "tile": 1336,
+        "tiles": 58,
+        "bytes": 1856
+      }
+    }
+  },
+  "map16": {
+    "base_bytes": 5600,
+    "apm_offset": 6048,
+    "apm_bytes": 96
+  },
+  "map128_bytes": 32768,
+  "collision_bytes": 768,
+  "objects": 189,
+  "active_shared_records": 56,
+  "deferred_ooz_specific_records": 133,
+  "object_counts_hex": {
+    "0D": 1,
+    "19": 13,
+    "1C": 21,
+    "1F": 17,
+    "26": 11,
+    "33": 11,
+    "36": 40,
+    "3D": 3,
+    "3F": 30,
+    "41": 2,
+    "48": 16,
+    "4A": 14,
+    "50": 8,
+    "79": 2
+  },
+  "global_oil_object": {
+    "source_id": 7,
+    "y": 1880,
+    "width": 32,
+    "submersion": 48
+  },
+  "music": {
+    "id": 412,
+    "tempo": 208,
+    "voices": 6,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "sha256": {
+    "ooz1_art.bin": "799065f75b28736cc61c1110ad7f824ae0cd6efb6f7addb5af6bc7b7900df473",
+    "ooz1_map16.bin": "aa5c063bd840f0c3a7018e350778794091c9e34a451e6c57fb15d705a97d346d",
+    "ooz1_map128.bin": "f8c360785d36a9311ee3a275b090a406b8eb01ac5656e584c96b7ad5fb54b4af",
+    "ooz1_layout128.bin": "45d13dc470fcf23d62b96fee26a0f5d8e8b26ce5ae4f9c4c92bc651c90d271a8",
+    "ooz1_bg128.bin": "4b6603b7b0e7a2a5eaa01eb93c0b43a59426fe03549b34fe501c9d4765cab4fc",
+    "ooz1_collision_primary.bin": "ca8375fccb13123c8fc077c2116697c579738232d4bf6765b68699c871e4f19e",
+    "ooz1_collision_secondary.bin": "ca8375fccb13123c8fc077c2116697c579738232d4bf6765b68699c871e4f19e",
+    "ooz1_objects.bin": "9e552beb11ad648c63eda71bd08e10ff32f8420da03b74040c8b663be8f4f2b9",
+    "ooz1_rings.bin": "13eecec956495d7a6d56d2cdb7360201eee58b8bda85aa021e04de7a41e4e258",
+    "ooz1_start.bin": "d17f4692b1fe0726f55d30769810cf3299f1884bf1f03fef201820f4301d5087"
+  }
+}

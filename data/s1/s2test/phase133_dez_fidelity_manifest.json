@@ -1,0 +1,48 @@
+{
+  "phase": 133,
+  "baseline": "Sonic1PC_S2DeathEggMechaSonic_Phase132.zip",
+  "level": "Death Egg Zone fidelity / Mecha Sonic retail behavior",
+  "direct_warp": "KEY_KP_2 physical/logical-safe",
+  "background_cache": [
+    4608,
+    768
+  ],
+  "background_initial_y": 200,
+  "barrier_half_width": 8,
+  "mecha_attack_sequence": [
+    6,
+    0,
+    16,
+    6,
+    6,
+    30,
+    0,
+    16,
+    6,
+    6,
+    16,
+    6,
+    0,
+    6,
+    16,
+    30
+  ],
+  "mecha_hits": 8,
+  "mecha_hit_flash": 32,
+  "mecha_defeat_timer": 255,
+  "s2_pcm": {
+    "spike_switch": "22",
+    "laser_beam": "30",
+    "spindash_release": "3C",
+    "fire": "5C",
+    "mecha_buzz": "6E"
+  },
+  "sha256": {
+    "assets/objects/s2_dez/barrier/00.png": "63b343bf2c69b7194ccdab3e203ae4c2896efbd01b198ab3662f16ef58a184c6",
+    "assets/audio/sfx_pcm/S2_22.wav": "f0620688eb61a8fa70fdc958bea2b30fb219721ca9b47608ac6a22f6a17fd094",
+    "assets/audio/sfx_pcm/S2_30.wav": "71c10623f883b769d0124ce522ce1a63b9f52c0e0c3eb8178f44263ecacd94e9",
+    "assets/audio/sfx_pcm/S2_3C.wav": "b2c80d1748017363e1d10e2891a5a389f787c82d12eb4b977a988776825c71f9",
+    "assets/audio/sfx_pcm/S2_5C.wav": "1a76d879256e986abfc3a5182bb85214aa876b46275dd4579f4bd5677f578874",
+    "assets/audio/sfx_pcm/S2_6E.wav": "43a54450964d3940c8a6985e6648141a20119479e4a63faae118257404eda91e"
+  }
+}

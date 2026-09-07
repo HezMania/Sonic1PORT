@@ -1,0 +1,16 @@
+{
+  "phase": 107,
+  "files": {
+    "assets/objects/s2_htz/lift_stake/00.png": "46b5934862157af80ca73e632039e6fc9aa535f5b9d731e0a6b4f0925be8f971",
+    "assets/objects/s2_htz/lift_stake/01.png": "9d97c43c0229fc2313e145e97e8dc32cf292080712b866395e8369017a0efa41",
+    "assets/objects/s2_htz/quake_lava/00.png": "a461accaa6ad3a53696e0b9575482e1ef535752d80716c126375dab09934d49b",
+    "assets/objects/s2_htz/smash_fragment/00.png": "7986974d7787b2e04b39df21b76c4d30b746e632259ba5a0d539d0ef0ba48cd3",
+    "assets/objects/s2_htz/smash_fragment/01.png": "6ad13c83881ccca3f80da4266944bd2477d00f4a89f5ad3abdfbb4b89351fcb5",
+    "assets/objects/s2_htz/smash_fragment/02.png": "627f9d95e85d03d6ca8a6190fbcf8293250673272457501152dad15fbd07b0fd",
+    "assets/objects/s2_htz/spiker/00.png": "3cf68e07d34036f922136ca4125e2eca201ef3483c0b1fdee9bd4ad83ab55207",
+    "assets/objects/s2_htz/spiker/01.png": "e8ac3d32cb7324b5af02a6276bd7e26a7eded9024cea25488dc13aa5dc92ffec",
+    "assets/objects/s2_htz/spiker/02.png": "e50592c763ab1110edbab3185c01355ee4b04981606242d01383618d3452223a",
+    "assets/objects/s2_htz/spiker/03.png": "85d094b64e245d4bc741d4cfc0a6c4e51a78d7915694d29a663058b351a4b2e2",
+    "assets/objects/s2_htz/spiker/04.png": "c2ba3ce01436f069ae479c1ddc59a29e6992e427ecfefd2215b009474c5fd68e"
+  }
+}

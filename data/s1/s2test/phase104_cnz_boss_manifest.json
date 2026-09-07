@@ -1,0 +1,21 @@
+{
+  "phase": 104,
+  "cnz1_special_bumpers": 53,
+  "cnz2_special_bumpers": 52,
+  "boss_mapping_frames": 21,
+  "boss_tiles": 133,
+  "boss_start": [
+    10822,
+    1620
+  ],
+  "boss_patrol": [
+    10432,
+    10688
+  ],
+  "boss_hits": 8,
+  "boss_camera": {
+    "lock_left": 10336,
+    "lock_right": 10464,
+    "escape_right": 11040
+  }
+}

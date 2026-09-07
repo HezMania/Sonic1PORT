@@ -1,0 +1,136 @@
+{
+  "phase": 111,
+  "level": "Mystic Cave Zone Act 1",
+  "start": [
+    96,
+    1708
+  ],
+  "limits": {
+    "left": 0,
+    "right": 9088,
+    "top": 960,
+    "bottom": 1824
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "background_repeat": [
+    4,
+    4
+  ],
+  "art": {
+    "main_bytes": 29952,
+    "main_tiles": 936,
+    "plc": {
+      "art/nemesis/Firefly from MCZ.bin": {
+        "tile": 936,
+        "tiles": 20,
+        "bytes": 640
+      },
+      "art/nemesis/Snake badnik from MCZ.bin": {
+        "tile": 960,
+        "tiles": 10,
+        "bytes": 320
+      },
+      "art/nemesis/Large wooden box from MCZ.bin": {
+        "tile": 980,
+        "tiles": 32,
+        "bytes": 1024
+      },
+      "art/nemesis/Collapsing platform from MCZ.bin": {
+        "tile": 1012,
+        "tiles": 26,
+        "bytes": 832
+      },
+      "art/nemesis/Pull switch from MCZ.bin": {
+        "tile": 1038,
+        "tiles": 16,
+        "bytes": 512
+      },
+      "art/nemesis/Vine that lowers from MCZ.bin": {
+        "tile": 1054,
+        "tiles": 10,
+        "bytes": 320
+      },
+      "art/nemesis/Long horizontal spike.bin": {
+        "tile": 1068,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Spikes.bin": {
+        "tile": 1076,
+        "tiles": 8,
+        "bytes": 256
+      },
+      "art/nemesis/Drawbridge logs from MCZ.bin": {
+        "tile": 1084,
+        "tiles": 4,
+        "bytes": 128
+      },
+      "art/nemesis/Lever spring.bin": {
+        "tile": 1088,
+        "tiles": 28,
+        "bytes": 896
+      },
+      "art/nemesis/Vertical spring.bin": {
+        "tile": 1116,
+        "tiles": 20,
+        "bytes": 640
+      },
+      "art/nemesis/Horizontal spring.bin": {
+        "tile": 1136,
+        "tiles": 12,
+        "bytes": 384
+      }
+    }
+  },
+  "map16_bytes": 4800,
+  "map128_bytes": 32768,
+  "collision_bytes": 768,
+  "objects": 130,
+  "active_shared_records": 42,
+  "deferred_mcz_specific_records": 88,
+  "object_counts_hex": {
+    "0D": 1,
+    "15": 1,
+    "1F": 19,
+    "26": 12,
+    "2A": 8,
+    "36": 13,
+    "41": 11,
+    "6A": 2,
+    "74": 2,
+    "75": 8,
+    "76": 11,
+    "77": 3,
+    "79": 3,
+    "7A": 3,
+    "7F": 4,
+    "80": 6,
+    "81": 5,
+    "9E": 6,
+    "A3": 12
+  },
+  "music": {
+    "id": 411,
+    "tempo": 182,
+    "voices": 7,
+    "dac_ids": [
+      0,
+      1
+    ]
+  },
+  "sha256": {
+    "mcz1_art.bin": "c4376acf20dd25f404c9d745317d26908db296dd15d3985bf75d708a855230bb",
+    "mcz1_map16.bin": "8baa632a1ef3c0c1aaa7aa06ed35e22cd46ea9da02eb0946b3f688356d58f2ac",
+    "mcz1_map128.bin": "860c0d5db93d54a68cedd159bb828866ec8e4567600f17ade3d9a0ec1d8774bb",
+    "mcz1_layout128.bin": "6cd6703fb77e385eb9b04ef469e689341e45aa3d7afb00125efb332acf646f74",
+    "mcz1_bg128.bin": "fd8bb852c6ecd8fdbb531023e02e9f809abc43d2c9548515008a69c5a720e443",
+    "mcz1_collision_primary.bin": "7b51540b6531880418edf55f8c13acc32a9999c96014a72dea858a3c14630b9f",
+    "mcz1_collision_secondary.bin": "7b51540b6531880418edf55f8c13acc32a9999c96014a72dea858a3c14630b9f",
+    "mcz1_objects.bin": "01f8ea3b33f4d05fb743c6f13893d456e551610677db1597c8563cd4379ffa23",
+    "mcz1_rings.bin": "cddd4bfea594c170301789849ce0ae745e413a74886cebf57d237f309f6d80d9",
+    "mcz1_start.bin": "d17f4692b1fe0726f55d30769810cf3299f1884bf1f03fef201820f4301d5087"
+  }
+}

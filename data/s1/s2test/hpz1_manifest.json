@@ -1,0 +1,113 @@
+{
+  "source": "user-supplied Sonic 2 Simon Wai prototype disassembly",
+  "level": "Hidden Palace Zone Act 1",
+  "source_layout_128": {
+    "foreground": [
+      128,
+      16
+    ],
+    "background": [
+      8,
+      9
+    ]
+  },
+  "converted_layout_256": {
+    "foreground": [
+      64,
+      8
+    ],
+    "background": [
+      4,
+      5
+    ]
+  },
+  "decoded_sizes": {
+    "main_art": 23200,
+    "seeded_vram_art": 65536,
+    "map16": 6144,
+    "map128": 32768,
+    "map256": 71168,
+    "primary_collision_index": 768,
+    "secondary_collision_index": 768
+  },
+  "animated_block_patch": {
+    "base_bytes": 5600,
+    "destination": 5904,
+    "bytes": 240,
+    "first_block": 738,
+    "last_block": 767
+  },
+  "seeded_animated_art": {
+    "source": "art/uncompressed/Pulsing orb (HPZ).bin",
+    "windows": [
+      {
+        "destination_tile": 744,
+        "source_tile": 0,
+        "tiles": 8
+      },
+      {
+        "destination_tile": 752,
+        "source_tile": 8,
+        "tiles": 8
+      },
+      {
+        "destination_tile": 760,
+        "source_tile": 16,
+        "tiles": 8
+      }
+    ]
+  },
+  "source_128_chunks": 256,
+  "converted_unique_256_chunks": 139,
+  "highest_converted_chunk_id": 139,
+  "highest_source_block_id": 767,
+  "highest_used_tile_id": 767,
+  "start": [
+    560,
+    428
+  ],
+  "source_level_bounds": {
+    "left": 0,
+    "right": 16383,
+    "top": 0,
+    "bottom": 1824
+  },
+  "deferred": [
+    "objects",
+    "rings",
+    "HPZ music",
+    "palette cycle",
+    "scanline deformation",
+    "live pulsing-orb DMA"
+  ],
+  "source_sha256": {
+    "art": "ce73eb2cc0cb971308b4bdf95e2c95a9d373e0950d5b0333239e5c77fb8f0596",
+    "orb": "b5e56e9213e347dbb2a85c5dc07d1f322ea6a533627f6dbcf15c3c90144b9c15",
+    "map16": "762358a915aee9ad78ecd732553623ff21c37ef371105f15755558dd398e0294",
+    "map16_patch": "808439380cf0f407ad1b695081bb5d112fd8d7511b562fda86027e4fb2ba45a5",
+    "map128": "034bdba1d85a1deacc12e05cd2075916f3219c2eb07541d9649563279cc65d26",
+    "layout": "36c0a09068bf3fe8bffba6f8e4015bda15f649c042bce5926d28db851d8ba06e",
+    "background": "550cf2971b0c3b32a548404d9a4d41d6fda59539d2ab8e30ba8dfbe146b8137b",
+    "colp": "f98011bd67dc7be8b4f7988c0171b1949a693a6bd4d534e78030f39333a09444",
+    "cols": "ef115a0e0c15cdc41958ca46b5b14b456115f4baec5e3ca68599d2a8f435e3b8",
+    "coln": "9bb911af6f09617a6306a70159a91918891bcb58b81f462482f0d6fe0f92f150",
+    "colr": "5532a60702075ba8051bbd2d13eb91d392fc959d0fe10b3083293e6a8a7d2348",
+    "angle": "a30f649ff0f9bbaf3b826a039d0be92dc53ab92816775132c97bdb97bf1dd578",
+    "pal": "d0b81206e5eaef548b2de36a6ab665a27cf7089bf3443853f9166ea6a6e27787",
+    "start": "c56a4a3dd797bbf5e35b0261d9c1be5668844431ba5f19c3248e88f4e8a249d2"
+  },
+  "output_sha256": {
+    "hpz1_art.bin": "10e8798af2c409769ebac6200b08ed8a23e00fcf085d25b96dba0355b2601962",
+    "hpz1_map16.bin": "6e00735614609774963d2d58f9a26ce5bb8c53afffd6b7a8b35c1351a4bc34e6",
+    "hpz1_map256.bin": "565b5f32cd7b943201854939225584915767de2a5a723b52085c08f7e94962a1",
+    "hpz1_layout.bin": "c904b1891ebf5f58d26551ab9f7a1805663b5256cbc15613bafb8f2d8d3b37e4",
+    "hpz1_bg.bin": "8ea1f6ead9af0c0e95ef60eaa5c5aef219517c66b688501b6a3810904568dfe9",
+    "hpz1_collision_primary.bin": "f98011bd67dc7be8b4f7988c0171b1949a693a6bd4d534e78030f39333a09444",
+    "hpz1_collision_secondary.bin": "ef115a0e0c15cdc41958ca46b5b14b456115f4baec5e3ca68599d2a8f435e3b8",
+    "hpz_collision_normal.bin": "9bb911af6f09617a6306a70159a91918891bcb58b81f462482f0d6fe0f92f150",
+    "hpz_collision_rotated.bin": "5532a60702075ba8051bbd2d13eb91d392fc959d0fe10b3083293e6a8a7d2348",
+    "hpz_angle_map.bin": "a30f649ff0f9bbaf3b826a039d0be92dc53ab92816775132c97bdb97bf1dd578",
+    "hpz1_start.bin": "c56a4a3dd797bbf5e35b0261d9c1be5668844431ba5f19c3248e88f4e8a249d2"
+  },
+  "palette_sha256": "d0b81206e5eaef548b2de36a6ab665a27cf7089bf3443853f9166ea6a6e27787"
+}

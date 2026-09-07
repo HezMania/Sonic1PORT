@@ -1,0 +1,58 @@
+{
+  "phase": 139,
+  "baseline": "Sonic1PC_S2DeathEggRobotFidelity_Phase138.zip",
+  "focus": "Death Egg Robot parent-follow slam linkage and defeat explosion priority",
+  "retail_parent_followers": {
+    "source_routine": "loc_3E282",
+    "parts": [
+      "shoulder",
+      "head",
+      "jet"
+    ],
+    "behavior": "rebuild world position from ObjC7 main x/y every frame",
+    "project_bridge": "add slam_torso_offset to follower part local positions",
+    "lower_legs_remain_stationary_during_off_3E30A": true,
+    "head_collision_follows_main_lurch": true,
+    "shoulder_hazard_follows_main_lurch": true
+  },
+  "retail_boss_explosion": {
+    "object": "Obj58",
+    "source_loader": "Boss_LoadExplosion",
+    "art_priority_bit": 1,
+    "object_priority": 0,
+    "project_terrain_high_z": 100,
+    "project_dez_defeat_explosion_z": 130,
+    "scope": "C7 defeat/ending random explosions only"
+  },
+  "retained_phase138": {
+    "normal_sonic_z": 50,
+    "c7_absolute_z_range": [
+      41,
+      49
+    ],
+    "slam_groups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "slam_frames_per_group": 8,
+    "slam_total_frames": 72,
+    "defeat_fragments_preserve_original_z": true
+  },
+  "phase138_baseline_sha256": {
+    "scripts/main.gd": "69fa4cc668a57335b723898053e04c36e22f6dbb444dca501618b57028b7b195",
+    "scripts/objects/s2_dez_egg_robo.gd": "e98af56c3e7cf8263f15a6bacdfec677f5cf41a0a7e5b641fb31231f353cf7d2",
+    "scripts/objects/object_manager.gd": "fb48bf9c13f9a5cc9fb5e54a888ebc537a8e367618a49536bb5c930eb47e45e4"
+  },
+  "frozen_phase134_sha256": {
+    "scripts/objects/s2_dez_mecha_sonic.gd": "83a374e03e75912ce26331d90bb13239a6808ad261941c33da78d82e0ec360b5",
+    "scripts/render/ghz_background_renderer.gd": "0d1e295f39d8f59e337b35dafcd737466f9c1ba4ac7e394b3dd0395d0571b9f7",
+    "data/s1/s2test/dez1_objects.bin": "7418dacc85fae3b501637a3ff9bb93840f70f271916984530cdc03561c211492"
+  }
+}

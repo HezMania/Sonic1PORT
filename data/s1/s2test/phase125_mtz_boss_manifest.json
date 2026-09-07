@@ -1,0 +1,47 @@
+{
+  "phase": 125,
+  "boss": "Object $54",
+  "hits": 8,
+  "start": [
+    11088,
+    896
+  ],
+  "arena": [
+    10928,
+    11248
+  ],
+  "egg_prison": [
+    11408,
+    1184
+  ],
+  "boss_frames": 21,
+  "sha256": {
+    "assets/objects/s2_mtz/boss/parts/00.png": "7825411dcbcfc007f63289e67477ff40a89739e38b7932a57c102c7264d82e9e",
+    "assets/objects/s2_mtz/boss/parts/01.png": "ac4714ec0a8b51dda543df654a43e12017fc6652125c492794e872baf0d16f5a",
+    "assets/objects/s2_mtz/boss/parts/02.png": "d421b5f27aed13398b0dae1bc5df559deaebdf6520b68821bce9935a301874a6",
+    "assets/objects/s2_mtz/boss/parts/03.png": "5dfdf4d651ef6e01cf600fee71b1470df834aa34e9e1ac66c6a6fdd1e01bfa80",
+    "assets/objects/s2_mtz/boss/parts/04.png": "3f9865954be9333f9cc1bb6627ad6907a82f13787d142b1dc7538096456777a3",
+    "assets/objects/s2_mtz/boss/parts/05.png": "3bebbf99981a7c7b8234b41b1f72356612a25ed8ac8cde448538fc891eee1564",
+    "assets/objects/s2_mtz/boss/parts/06.png": "6965c7b83e0790f028b07792cf171dd7803946d43f8460c0bfc7d3986ace6211",
+    "assets/objects/s2_mtz/boss/parts/07.png": "92bcf9ac956d6848c98e4ea967caa042ec886b018ab626791942a69514062d8a",
+    "assets/objects/s2_mtz/boss/parts/08.png": "ed1e55bc5de55dd67823cc8f5011a7f893a6f65dd520bdf6bc1fd0eca08c380e",
+    "assets/objects/s2_mtz/boss/parts/09.png": "396f072a1664d9080b360f7d43325dfbcefe09ad3cb6249d755576c1cfba1ec7",
+    "assets/objects/s2_mtz/boss/parts/10.png": "1a6714e3047ad60ae9546679f2563af32e5999cdb5955ad2b89df36d87f7acd2",
+    "assets/objects/s2_mtz/boss/parts/11.png": "7bc637dab52260bf7b9c49c5768f9f79e8b9e5299f8d19493d151aff5bf61bb1",
+    "assets/objects/s2_mtz/boss/parts/12.png": "41b975a73f1bf6d551354cc64af3f4fab818063c8f1e00aaab8d40b2964b7ec1",
+    "assets/objects/s2_mtz/boss/parts/13.png": "52ddab7a5ad7f9c013cd55e1b84bdee075431b63ed4c29b293c0faa6a7fc105f",
+    "assets/objects/s2_mtz/boss/parts/14.png": "0fe46000d1426c55d0bdf5f989281367c363c794d2a494ba661f581d40c1e3ca",
+    "assets/objects/s2_mtz/boss/parts/15.png": "9926ebd342ce43ac33974875605ac9bce4034c79adab4031e1ee5935c207608a",
+    "assets/objects/s2_mtz/boss/parts/16.png": "0336024856c17ddaf8b41fc3de8190555ca08d1058670895aa5d9b9e4c4be00f",
+    "assets/objects/s2_mtz/boss/parts/17.png": "0753fae657cedef59fb3a546dd3006108fb47009fb118dd1ba609ce4f57a5067",
+    "assets/objects/s2_mtz/boss/parts/18.png": "5ba3c1ce09afaff897667cc1c41fa56923df3b7433e189171119d502e59104c5",
+    "assets/objects/s2_mtz/boss/parts/19.png": "7acd8cb51b11ed8c8f8394b9f0822ac996c21d1c0591552c1b56eabe4c1b3ffd",
+    "assets/objects/s2_mtz/boss/parts/20.png": "633f80d36afc90732f3b044331608150bef1c2de6df9e872c14086e3be793a3b",
+    "assets/objects/s2_mtz/egg_prison/00.png": "51b91b56975e9b65926572e1d81b553382d52c351e29dd069e32b6c3b4c31d4c",
+    "assets/objects/s2_mtz/egg_prison/01.png": "1de64d59a54605fafa8d7a79384355f780957ed2d92db4263c52ec68a4603db3",
+    "assets/objects/s2_mtz/egg_prison/02.png": "4cc44e2d68f6d20c99d9cd8896113d924485e4f659fa80d9272c9c48f826d05b",
+    "assets/objects/s2_mtz/egg_prison/03.png": "a9b24dec1c2262eebd2c85c14bff9b7e38581790f6362e3450f5fac037ed8480",
+    "assets/objects/s2_mtz/egg_prison/04.png": "49f2e39a708bf9427747e456aeb6dc5f7f84f272f9245a167f18b898256b92ef",
+    "assets/objects/s2_mtz/egg_prison/05.png": "5108e08c06d91992048ad0cb0c693c58bdc86afa6337dbb5154178f542a03bc3"
+  }
+}

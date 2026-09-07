@@ -1,0 +1,65 @@
+{
+  "phase": 84,
+  "description": "Sonic 2 EHZ spring/contact and badnik visual fidelity corrections",
+  "palette_model": {
+    "line0": "SonicAndTails.bin",
+    "lines1_3": "EHZ.bin",
+    "piece_palette": "mapping attribute bits 13-14"
+  },
+  "sprite_piece_priority": "render mapping pieces in reverse composite order so first source piece remains visually highest, matching Genesis sprite-link priority",
+  "sources": {
+    "palette_line0": {
+      "path": "art/palettes/SonicAndTails.bin",
+      "sha256": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62"
+    },
+    "level_palette_lines1_3": {
+      "path": "art/palettes/EHZ.bin",
+      "sha256": "64880597a3704229c42bd42db78d08057ae28ccda42f6595aac799b7afe2f6e9"
+    },
+    "buzzer_art": {
+      "path": "art/nemesis/Buzzer enemy.bin",
+      "sha256": "d850c4f094bc7cffec582eb3c43e448aee168c2f09e40db0550ea36b9c134d5c"
+    },
+    "buzzer_mappings": {
+      "path": "mappings/sprite/obj4B.bin",
+      "sha256": "73a886df3c3c0afd0084cdbac504ffd95ea25cacdd04975e91e262df29f2a72c"
+    },
+    "masher_art": {
+      "path": "art/nemesis/EHZ Pirahna badnik.bin",
+      "sha256": "a8885e0f307ac9459b841f03a316291882b20eb54fd5eb90b6529f14918978f8"
+    },
+    "masher_mappings": {
+      "path": "mappings/sprite/obj5C.bin",
+      "sha256": "9619707ed8ec35a28e3f96bd4fcba5b371953e0bf3fd2509274071eea6c84442"
+    },
+    "coconuts_art": {
+      "path": "art/nemesis/Coconuts badnik from EHZ.bin",
+      "sha256": "91842bf83bae30316a749201ac68fb14072e4f747639511ff05a2b6b8eaba910"
+    },
+    "coconuts_mappings": {
+      "path": "mappings/sprite/obj9D.bin",
+      "sha256": "a8d56375ca9fa71b7867191e625a77379e322fcc53fe5bb289d009ae32a484ce"
+    }
+  },
+  "outputs": {
+    "buzzer": {
+      "00.png": "5877e50f00de0007bd20ed44427739b0aa0ad00c7ae40b778854f35d38fa0d06",
+      "01.png": "5fbb84eaf2c57fe24996b658025aa253e205879b2773be575f936333253d57b5",
+      "02.png": "d5668fd1801e6998fa43e51c04df0e5345f150ed3a32a26ff1240203bd3d1f53",
+      "03.png": "8f886b129ba21473cdf5f7c47f4c08f5821ebc3b5f9b5f35e90e8aac51e84549",
+      "04.png": "6dce434fa3d9beeda62ebfd7debaf3f4f030ff87fbd71e8759132519d77ed959",
+      "05.png": "3409dd9d56d182e4a4a574d51cb00a8174960226ee878ca526e865ae2ae702f6",
+      "06.png": "25f6c3d263ed41149b71fb26b86e3a5a10aee7cab886bf5098c8e037af8d065f"
+    },
+    "masher": {
+      "00.png": "02814b363ee0b97edf31f9a70c594e804f8fe75ac8ad516608823d0048f1b793",
+      "01.png": "495ddb9f5eaa5eec74a12cdc1e577843b1a519d6c72286162e69365b7db73e79"
+    },
+    "coconuts": {
+      "00.png": "ea39f1b57bf0e54fcdb6260ee2b392b550168c3468ad75d6328ef5904021fe81",
+      "01.png": "b639b1a645a58e17d5e275469a4c6499597daa2be19de36fa259ad786464e907",
+      "02.png": "acc58edd043cd9cfe09b9c1b8557ab656868d8d0bb0aba627223b6f1692a4232",
+      "03.png": "08bdc18a0a1d216c9a68480bfa75e562768d8b7e787d366eed8e389a2008f416"
+    }
+  }
+}

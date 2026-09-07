@@ -1,0 +1,59 @@
+{
+  "phase": 77,
+  "format": "native Sonic 2 128x128 chunks",
+  "runtime_chunk_bytes": 128,
+  "blocks_per_chunk": [
+    8,
+    8
+  ],
+  "ehz1": {
+    "source_map128": "mappings/128x128/EHZ_HTZ.bin",
+    "source_layout": "level/layout/EHZ_1.bin",
+    "map128_chunks": 256,
+    "foreground_128": [
+      128,
+      16
+    ],
+    "background_128": [
+      128,
+      16
+    ],
+    "max_foreground_chunk": 246,
+    "max_background_chunk": 255,
+    "source_sha256": {
+      "map128": "3e9c43b6bdfb54adec58192bbebe23e286400cb5dc207c7f90be2d950d7c83ca",
+      "layout": "42b5203bcd7c5f18fec40d520c4628edc008cd6c08ba6c354aa6e16b31f61c23"
+    },
+    "output_sha256": {
+      "ehz1_map128.bin": "b3c6a3f0e29f7b74f0dda74e2a19e71467526c0dadfcc0765b7ff24aedfc6903",
+      "ehz1_layout128.bin": "c4f32473b29fcbd0dbaf51b1d3c0edbefdd26675bcc79074f560270511943a63",
+      "ehz1_bg128.bin": "ecec9d4bc99370675f9c22ee7fef5444d592d1376854bc88029a7ad1b9d88fea"
+    }
+  },
+  "hpz1": {
+    "source_map128": "mappings/128x128/HPZ.bin",
+    "source_layout": "level/layout/HPZ_1.bin",
+    "source_background": "level/layout/HPZ_BG.bin",
+    "map128_chunks": 256,
+    "foreground_128": [
+      128,
+      16
+    ],
+    "background_128": [
+      8,
+      9
+    ],
+    "max_foreground_chunk": 185,
+    "max_background_chunk": 231,
+    "source_sha256": {
+      "map128": "034bdba1d85a1deacc12e05cd2075916f3219c2eb07541d9649563279cc65d26",
+      "layout": "36c0a09068bf3fe8bffba6f8e4015bda15f649c042bce5926d28db851d8ba06e",
+      "background": "550cf2971b0c3b32a548404d9a4d41d6fda59539d2ab8e30ba8dfbe146b8137b"
+    },
+    "output_sha256": {
+      "hpz1_map128.bin": "95f20d138b28ff478c81e781a3890b510dfa87694932c783f24ba69fa26675d5",
+      "hpz1_layout128.bin": "36c0a09068bf3fe8bffba6f8e4015bda15f649c042bce5926d28db851d8ba06e",
+      "hpz1_bg128.bin": "550cf2971b0c3b32a548404d9a4d41d6fda59539d2ab8e30ba8dfbe146b8137b"
+    }
+  }
+}

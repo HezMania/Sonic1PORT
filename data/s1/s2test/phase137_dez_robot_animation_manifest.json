@@ -1,0 +1,81 @@
+{
+  "phase": 137,
+  "baseline": "Sonic1PC_S2DeathEggFinalBossCorrections_Phase136.zip",
+  "door": {
+    "raw_half_width": 8,
+    "height_arg": 32,
+    "art_source": "art/nemesis/Stripy blocks from CPZ.bin",
+    "art_sha256": "6b6154c3fe4035abe79befaa3330fb4aa824f94fe9cc953aac443cb37b0a3864",
+    "mapping_sha256": "44cc1bcf2063e6e97cbebc2fd5b8c93d6b0ac848a82d30656dbc6f4254c3825f",
+    "frame_bboxes": [
+      [
+        88,
+        64,
+        104,
+        128
+      ],
+      [
+        88,
+        64,
+        104,
+        112
+      ],
+      [
+        88,
+        64,
+        104,
+        96
+      ],
+      [
+        88,
+        64,
+        104,
+        80
+      ]
+    ]
+  },
+  "egg_robo": {
+    "stand_y": 292,
+    "defeat_floor_y": 348,
+    "raw_selector": [
+      2,
+      0,
+      2,
+      4
+    ],
+    "effective_initial_cycle": [
+      0,
+      2,
+      4,
+      2
+    ],
+    "first_walk_forward_pixels": -168,
+    "first_walk_recovery_pixels": 24,
+    "first_walk_net_pixels": -144,
+    "default_facing": "left / unflipped retail mappings",
+    "ending_body_displayed": false,
+    "head_open_hold_frames": 64,
+    "head_close_frames": 24,
+    "head_post_close_wait": 64,
+    "walk_linked_animation": "ObjC7_GroupAni_3E438 exact per-child deltas",
+    "front_forearm_trigger_delay": 0,
+    "back_forearm_trigger_delay": 64,
+    "forearm_motion_frames": [
+      16,
+      32,
+      32,
+      32
+    ],
+    "target_velocity_history_words": [
+      "objoff_30",
+      "objoff_34",
+      "objoff_38",
+      "objoff_3C"
+    ]
+  },
+  "frozen_phase134_sha256": {
+    "scripts/objects/s2_dez_mecha_sonic.gd": "83a374e03e75912ce26331d90bb13239a6808ad261941c33da78d82e0ec360b5",
+    "scripts/render/ghz_background_renderer.gd": "0d1e295f39d8f59e337b35dafcd737466f9c1ba4ac7e394b3dd0395d0571b9f7",
+    "data/s1/s2test/dez1_objects.bin": "7418dacc85fae3b501637a3ff9bb93840f70f271916984530cdc03561c211492"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "phase": 138,
+  "baseline": "Sonic1PC_S2DeathEggRobotAnimation_Phase137(1).zip",
+  "focus": "Death Egg Robot layering, retail stomp landing motion, defeat fragment depth",
+  "retail_render_priority": {
+    "sonic": 2,
+    "c7_front_children": 4,
+    "c7_body_and_back_children": 5,
+    "project_normal_sonic_z": 50,
+    "project_c7_absolute_z_range": [
+      41,
+      49
+    ],
+    "project_part_z": {
+      "back_lower": 41,
+      "back_forearm": 41,
+      "back_thigh": 41,
+      "jet": 42,
+      "body": 44,
+      "arm": 45,
+      "front_thigh": 45,
+      "front_lower": 46,
+      "front_forearm": 47,
+      "shoulder": 48,
+      "head": 49
+    },
+    "children_z_as_relative": false,
+    "defeat_fragments_preserve_original_z": true
+  },
+  "retail_stomp_recovery": {
+    "source_script": "off_3E30A / ObjC7_GroupAni_3E318",
+    "groups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "frames_per_group": 8,
+    "total_frames": 72,
+    "torso_dx16": [
+      -32,
+      -20,
+      -8,
+      -4,
+      0,
+      4,
+      12,
+      24,
+      24
+    ],
+    "torso_dy16": [
+      12,
+      20,
+      20,
+      12,
+      0,
+      -24,
+      -24,
+      -12,
+      -4
+    ],
+    "thigh_dx16": [
+      -8,
+      -6,
+      -2,
+      0,
+      0,
+      2,
+      4,
+      4,
+      6
+    ],
+    "thigh_dy16": [
+      4,
+      6,
+      4,
+      2,
+      0,
+      -6,
+      -4,
+      -4,
+      -2
+    ],
+    "net_torso_delta16": [
+      0,
+      0
+    ],
+    "net_thigh_delta16": [
+      0,
+      0
+    ],
+    "fixed_during_group": [
+      "shoulder",
+      "front_lower",
+      "head",
+      "jet",
+      "back_lower"
+    ]
+  },
+  "retained_phase137": {
+    "head_open_hold_frames": 64,
+    "head_close_frames": 24,
+    "head_post_close_wait": 64,
+    "target_velocity_history_words": [
+      "objoff_30",
+      "objoff_34",
+      "objoff_38",
+      "objoff_3C"
+    ],
+    "walk_linked_animation": "ObjC7_GroupAni_3E438 exact per-child deltas",
+    "back_forearm_trigger_delay": 64
+  },
+  "phase137_baseline_sha256": {
+    "scripts/main.gd": "dd3e049bf39775a298a61e019f3fa2d7152ccd74092d0be32df103d2611a9c59",
+    "scripts/objects/s2_dez_egg_robo.gd": "69253598b227400eab0c5fe7049a053879ece386538ade481b3c84c8326211d8"
+  },
+  "frozen_phase134_sha256": {
+    "scripts/objects/s2_dez_mecha_sonic.gd": "83a374e03e75912ce26331d90bb13239a6808ad261941c33da78d82e0ec360b5",
+    "scripts/render/ghz_background_renderer.gd": "0d1e295f39d8f59e337b35dafcd737466f9c1ba4ac7e394b3dd0395d0571b9f7",
+    "data/s1/s2test/dez1_objects.bin": "7418dacc85fae3b501637a3ff9bb93840f70f271916984530cdc03561c211492"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "phase": 131,
+  "level": "Wing Fortress Zone",
+  "source_revision": "retail final",
+  "runtime_palette_bridge": {
+    "indices": [
+      34,
+      35,
+      36,
+      37
+    ],
+    "values_hex": [
+      "0244",
+      "0268",
+      "048a",
+      "04ac"
+    ],
+    "source": "SCZ handoff / user retail visual reference"
+  },
+  "start": [
+    96,
+    1228
+  ],
+  "limits": {
+    "left": 0,
+    "right": 16383,
+    "top": 0,
+    "bottom": 1824
+  },
+  "layout": [
+    128,
+    16
+  ],
+  "main_art_bytes": 28064,
+  "supplement_bytes": 3648,
+  "supplement_tile": 775,
+  "combined_art_bytes": 28448,
+  "map16_bytes": 5920,
+  "map128_bytes": 32768,
+  "objects": 157,
+  "object_counts_hex": {
+    "19": 16,
+    "26": 19,
+    "2D": 1,
+    "72": 1,
+    "74": 5,
+    "79": 3,
+    "80": 10,
+    "8B": 11,
+    "AD": 10,
+    "AE": 10,
+    "B2": 2,
+    "B4": 12,
+    "B5": 8,
+    "B6": 5,
+    "B8": 5,
+    "B9": 6,
+    "BA": 2,
+    "BC": 2,
+    "BD": 5,
+    "BE": 7,
+    "C0": 8,
+    "C1": 4,
+    "C2": 1,
+    "C5": 1,
+    "D9": 3
+  },
+  "rings_bytes": 320,
+  "events": {
+    "boss_plc_gate": [
+      10368,
+      1024
+    ],
+    "lock_left": 10368,
+    "control_lock_y": 1280,
+    "bg_transition": [
+      11200,
+      1408
+    ]
+  },
+  "sprites": {
+    "platform": {
+      "frames": 4,
+      "tiles": 24,
+      "map_bytes": 96
+    },
+    "clucker": {
+      "frames": 22,
+      "tiles": 26,
+      "map_bytes": 376
+    },
+    "tornado": {
+      "frames": 8,
+      "tiles": 678,
+      "map_bytes": 672
+    },
+    "vprop": {
+      "frames": 3,
+      "tiles": 4,
+      "map_bytes": 60
+    },
+    "hprop": {
+      "frames": 6,
+      "tiles": 29,
+      "map_bytes": 136
+    },
+    "tilt": {
+      "frames": 4,
+      "tiles": 12,
+      "map_bytes": 80
+    },
+    "turret": {
+      "frames": 5,
+      "tiles": 24,
+      "map_bytes": 116
+    },
+    "laser": {
+      "frames": 1,
+      "tiles": 10,
+      "map_bytes": 52
+    },
+    "wheel": {
+      "frames": 1,
+      "tiles": 16,
+      "map_bytes": 12
+    },
+    "shipfire": {
+      "frames": 1,
+      "tiles": 8,
+      "map_bytes": 20
+    },
+    "beltplat": {
+      "frames": 3,
+      "tiles": 12,
+      "map_bytes": 60
+    },
+    "retract": {
+      "frames": 5,
+      "tiles": 54,
+      "map_bytes": 100
+    },
+    "launcher": {
+      "frames": 1,
+      "tiles": 5,
+      "map_bytes": 20
+    },
+    "breakpanel": {
+      "frames": 6,
+      "tiles": 14,
+      "map_bytes": 168
+    },
+    "rivet": {
+      "frames": 1,
+      "tiles": 4,
+      "map_bytes": 20
+    },
+    "boss": {
+      "frames": 19,
+      "tiles": 117,
+      "map_bytes": 484
+    },
+    "hook": {
+      "frames": 13,
+      "tiles": 16,
+      "map_bytes": 548,
+      "source_art_offset": -128,
+      "canvas": [
+        64,
+        256
+      ],
+      "bboxes": [
+        [
+          21,
+          208,
+          43,
+          256
+        ],
+        [
+          21,
+          192,
+          43,
+          256
+        ],
+        [
+          21,
+          176,
+          43,
+          256
+        ],
+        [
+          21,
+          160,
+          43,
+          256
+        ],
+        [
+          21,
+          144,
+          43,
+          256
+        ],
+        [
+          21,
+          128,
+          43,
+          256
+        ],
+        [
+          21,
+          112,
+          43,
+          256
+        ],
+        [
+          21,
+          96,
+          43,
+          256
+        ],
+        [
+          21,
+          80,
+          43,
+          256
+        ],
+        [
+          21,
+          64,
+          43,
+          256
+        ],
+        [
+          21,
+          48,
+          43,
+          256
+        ],
+        [
+          21,
+          32,
+          43,
+          256
+        ],
+        [
+          21,
+          16,
+          43,
+          256
+        ]
+      ]
+    },
+    "boss_eggman": {
+      "eggman_frames": 8,
+      "eggman_bboxes": [
+        [
+          80,
+          71,
+          112,
+          122
+        ],
+        [
+          80,
+          70,
+          112,
+          122
+        ],
+        [
+          66,
+          69,
+          124,
+          112
+        ],
+        [
+          66,
+          69,
+          112,
+          124
+        ],
+        [
+          66,
+          69,
+          117,
+          121
+        ],
+        [
+          91,
+          94,
+          103,
+          99
+        ],
+        [
+          80,
+          70,
+          112,
+          122
+        ],
+        [
+          80,
+          71,
+          112,
+          122
+        ]
+      ],
+      "platform_frames": 1
+    },
+    "pilot": {
+      "frames": 5,
+      "source": "verified SCZ Tails pilot reconstruction"
+    }
+  },
+  "music": {
+    "tempo": 136,
+    "voices": 4,
+    "dac_ids": [
+      8,
+      10
+    ]
+  },
+  "sha256": {
+    "wfz1_art.bin": "e9ebf8c59cb21594835c54d090cc6c2bdd3d097e513490ab09f473fc886f7fef",
+    "wfz1_map16.bin": "3664071501256118e7a96e215a52e896724a399136400742d320199840391003",
+    "wfz1_map128.bin": "4aa1650fc63951839d9e6e546e72490403c77e3a59c5e9f5f764bd795ae85924",
+    "wfz1_layout128.bin": "8757b2fcab0099b8abf47184d8060cbaacc9326e4e56364c56a10fb678662093",
+    "wfz1_bg128.bin": "d0598eaf4ed01de8e0bbafe3058933ea0a89ec3fcf6a9fa64d0ecb2ae0edd979",
+    "wfz1_collision_primary.bin": "6b505f18c04063fdb8f3d0ab7798c262b6b1b408e95706d118a4baa746c015f9",
+    "wfz1_collision_secondary.bin": "418c92cd52c40806530200df07edcf04e24e143980f89c317c2b82648ea64877",
+    "wfz1_objects.bin": "b5afcb63c936ae62d860292a3ec4a7c4e7ff5cb24cf88130e4a6ae231bb737c4",
+    "wfz1_rings.bin": "63251c12735abee67c64f27b3ab695612afa67cbd358c771c92ba668eecccb3d",
+    "wfz1_start.bin": "566295227657b152ad4a472e3997b7988c1599a7756c5998a07f0eb889a584aa"
+  },
+  "corrections": {
+    "rivet_layout": {
+      "source_offsets": [
+        "0850",
+        "0950"
+      ],
+      "native_plane": "foreground",
+      "rows": [
+        8,
+        9
+      ],
+      "columns": [
+        80,
+        85
+      ]
+    },
+    "boss_preload_gate": [
+      10368,
+      1024
+    ],
+    "boss_case": [
+      11136,
+      1104
+    ],
+    "laser_walls_world_x": [
+      11000,
+      11272
+    ],
+    "laser_walls_world_y": 1200,
+    "robotnik_world": [
+      11360,
+      1254
+    ],
+    "platform_release_order": [
+      1,
+      2,
+      0
+    ],
+    "getaway_layout_offsets": [
+      "00D2",
+      "01D2",
+      "0BD6",
+      "0CD6"
+    ],
+    "getaway_jump_gates": [
+      48,
+      56,
+      256,
+      1079,
+      1095,
+      1120,
+      2496
+    ],
+    "background_scroll_cap_px_per_frame": 16,
+    "static_plane_getaway_wrap": "clamped cache sampling; VDP streamer emulation"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "phase": 135,
+  "objects": {
+    "C6_records": [
+      [
+        1088,
+        360,
+        198,
+        166
+      ]
+    ],
+    "C7_records": [
+      [
+        2112,
+        412,
+        199,
+        2
+      ]
+    ]
+  },
+  "frames": {
+    "c6_runner": 8,
+    "c6_door": 4,
+    "c7": 23
+  },
+  "egg_robo_art_tiles": 327,
+  "music": {
+    "id": 417,
+    "tempo": 169,
+    "voices": 3,
+    "dac_ids": [
+      1,
+      8,
+      9,
+      10
+    ]
+  },
+  "sfx": {
+    "28": {
+      "bytes": 11980,
+      "sha256": "d180d1d3250d706893574e597ee1ec120721254f8924b8b5aaa71341420fa3c8"
+    },
+    "37": {
+      "bytes": 658748,
+      "sha256": "26025165ee66793cd0c85454352ffabb6a72344916f9780ff3beaa09dee6245c"
+    },
+    "39": {
+      "bytes": 428932,
+      "sha256": "7f689df170f9f859336bcffe2c870feed23541f0c3abe83b5011ee347b449d8d"
+    },
+    "3D": {
+      "bytes": 123496,
+      "sha256": "04dd5b4d4de14f82734e97562701951b193ead966c582dfad688b3b4bee0738e"
+    },
+    "44": {
+      "bytes": 86800,
+      "sha256": "c45d041a53c13d26ebbe50067f14f5dd60c40c11e78faabebff5ca1663f475ee"
+    },
+    "61": {
+      "bytes": 240036,
+      "sha256": "6a526a30a8054c32ca8ec7055cef07a541f723b2c8ea787cadf3bf1d0fec004c"
+    }
+  },
+  "source_sha256": {
+    "objC6_a": "63e7f8394e133d9e5b4c6d5b545b9eb842d802081e8b9ca3451ba02375727a25",
+    "objC6_b": "44cc1bcf2063e6e97cbebc2fd5b8c93d6b0ac848a82d30656dbc6f4254c3825f",
+    "objC7": "694e3212bb10a4702cb8fd3a1f5d82f124a341979dd67bae780c2218b09d299b",
+    "Eggrobo": "946d645a875a902315326e6ed864907e1fa595a0b9bba89b401cf205265d85ff",
+    "End_Boss": "82c03194d3487ecc15a6da75987048dc849549a7605f184848dd0e1b092ac8f2"
+  }
+}

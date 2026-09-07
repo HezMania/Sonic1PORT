@@ -1,0 +1,61 @@
+{
+  "phase": 80,
+  "format": "source-native Sonic 2 ring descriptors",
+  "sources": {
+    "ehz1_rings": {
+      "path": "level/rings/EHZ_1.bin",
+      "sha256": "b4451393374a2a5fb01ecdb25ec71bb718fdf0f3d6ca1a1f0d0da15f00c6089e"
+    },
+    "hpz1_rings": {
+      "path": "level/rings/HPZ_1.bin",
+      "sha256": "74695096f951c7836a06a83c6df2cfec16b039f8fc006bcc3c088d3822ac7ac6"
+    },
+    "ring_art": {
+      "path": "art/nemesis/Ring.bin",
+      "sha256": "96b4a5b40c5c978d50334d96c4953615abc1d7859c1449438f4bc08065974aa6"
+    },
+    "retail_ring_map": {
+      "path": "mappings/sprite/Rings.bin",
+      "sha256": "87a0f37b500de4890af0ea3de65a6f0338b161c3577f7d18de5aa902886cdf67"
+    },
+    "beta_ring_map": {
+      "path": "mappings/sprite/obj25.bin",
+      "sha256": "3d87df934486312445edaa134fc2a1107f21aff8bb17f549b78da1b04f020920"
+    },
+    "ehz_palette": {
+      "path": "art/palettes/EHZ.bin",
+      "sha256": "64880597a3704229c42bd42db78d08057ae28ccda42f6595aac799b7afe2f6e9"
+    },
+    "hpz_palette": {
+      "path": "art/palettes/HPZ.bin",
+      "sha256": "d0b81206e5eaef548b2de36a6ab665a27cf7089bf3443853f9166ea6a6e27787"
+    }
+  },
+  "outputs": {
+    "ehz1_rings.bin": {
+      "sha256": "b4451393374a2a5fb01ecdb25ec71bb718fdf0f3d6ca1a1f0d0da15f00c6089e",
+      "groups": 137,
+      "expanded_rings": 226
+    },
+    "hpz1_rings.bin": {
+      "sha256": "74695096f951c7836a06a83c6df2cfec16b039f8fc006bcc3c088d3822ac7ac6",
+      "groups": 92,
+      "expanded_rings": 219
+    },
+    "s2_ring_frames": {
+      "00.png": "3b90c12bf326745513285830c246559c9e816810d8895255cb616a6db0b144b8",
+      "01.png": "68f73771617d5344bc6cba2a6be96eee13c10cb58754152b7d3fd0c293e728a1",
+      "02.png": "736bf99de8f898434b65cda05b4dc2bb2db388150be18276e3db4cbd6f0ccc49",
+      "03.png": "c47f1f48588ade0d6b62b7046665fda4e490fddab662066d21b1693178545bba",
+      "04.png": "dfcc038508a86fd932219ec98942b16723281ec768a6f762f098342d9b444812",
+      "05.png": "6127d22bd2890126657b9ba27783a1fa2c78efc5a3ee127b25f0ee6b4a8956d1",
+      "06.png": "283dea12837304ecf9eaecab155ef698dee52d4b9b534ffa58b15414df9d0db7",
+      "07.png": "34b68a3872c40b108266d355c0c586c13e7cf4b243178e99253994bacdfce7f9"
+    }
+  },
+  "runtime_translation": {
+    "horizontal_spacing": 24,
+    "vertical_spacing": 24,
+    "max_group_count": 8
+  }
+}

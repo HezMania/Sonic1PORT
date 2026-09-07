@@ -1,0 +1,29 @@
+{
+  "phase": "93_hotfix1",
+  "obj19_small_frame": 1,
+  "water_surface_frames": [
+    0,
+    1,
+    2
+  ],
+  "water_surface_local_bounds": [
+    -96,
+    -8,
+    64,
+    8
+  ],
+  "source_sha256": {
+    "sonicpal": "cbe93ee1655a286dc4ce18a0ec7e417e042dd9431af685795e2ccf4eba32ec62",
+    "cpzpal": "345f06d4282de86e4d9b1763e766c00012c6d3a1a25100cdbc1db4a81a385b35",
+    "platformart": "340381019e2b058dcad12edb608adb24362288504a448e4ba34048fb28a93e7e",
+    "platformmap": "1dca55ba8d9d10ac367835b01ac43925286b21c6f638e5c60c2b3fc9bcbd895c",
+    "waterart": "2463d860a784050cb18d29cb3f4615a5d640c52e30ec4953401ead8617eb28bc",
+    "watermap": "aad2ecdc4a994bb73d9fb631828ea9819757bfc9977518791d4bf68a9b9a6303"
+  },
+  "output_sha256": {
+    "assets/objects/s2_cpz/platform_small/00.png": "be9ffa4735a676e02e4b836c95b06cdd4e8bb9a0156884ea8071acdc9dc7303b",
+    "assets/objects/s2_cpz/water_surface/00.png": "fe0fbe8fda437720c8de5f403198833e9f5738bd2bcd3f2bf7b3cf2e3e04254a",
+    "assets/objects/s2_cpz/water_surface/01.png": "e48e9b9c98fdc15a272142630dc4763e53b5742120a40ec639a35813c02de80c",
+    "assets/objects/s2_cpz/water_surface/02.png": "123a63cc229d84612e9a90283774b65c408b9676558869cd090dfa7b4ba9d32a"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "phase": 81,
+  "assets": {
+    "platform": {
+      "frames": 2,
+      "source_map": "mappings/sprite/obj18_a.bin"
+    },
+    "bridge": {
+      "frames": 2,
+      "tiles": 8,
+      "source_art": "art/nemesis/EHZ bridge.bin",
+      "source_map": "mappings/sprite/obj11_b.bin"
+    },
+    "spikes": {
+      "frames": 8,
+      "source_map": "mappings/sprite/obj36.bin"
+    },
+    "spring": {
+      "primary_map_rom": "0x1901C",
+      "secondary_map_rom": "0x19032",
+      "source_art": [
+        "Vertical spring.bin",
+        "Horizontal spring.bin",
+        "Diagonal spring.bin"
+      ]
+    }
+  },
+  "ehz1_objects": {
+    "bytes": 810,
+    "records": 135,
+    "sha256": "8e1a1852bf2f7995cfea0ac85d11a34e6758daede11a786f4304965211dfbcad",
+    "source": "level/objects/EHZ_1.bin",
+    "id_counts": {
+      "9D": 8,
+      "18": 7,
+      "4B": 11,
+      "26": 13,
+      "1C": 14,
+      "5C": 13,
+      "11": 7,
+      "03": 19,
+      "41": 14,
+      "36": 12,
+      "49": 10,
+      "79": 3,
+      "06": 3,
+      "0D": 1
+    }
+  }
+}

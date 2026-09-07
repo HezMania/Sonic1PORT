@@ -1,0 +1,39 @@
+{
+  "phase": 108,
+  "files": {
+    "assets/objects/s2_htz/lift_flipped/00.png": "d18cc70f93e2431316062c61aff329644e1013fc0926b0c8cdebf4f9c90b03cb",
+    "assets/objects/s2_htz/lift_flipped/01.png": "e20301aa7ac5d178dfab68ec269f747c6068e879b21ec2a0edf7013d9601fdf7",
+    "assets/objects/s2_htz/lift_flipped/02.png": "e692cee96c241dabeab66cb7c1e5a5f3bcf1169ca1eab9491ea3e3939e993dc0",
+    "assets/objects/s2_htz/lift_flipped/03.png": "d21fc295b82cf9d0f7f0a127c31990eb5d0699238b8fa223d98018c3bd867d4b",
+    "assets/objects/s2_htz/lift_flipped/04.png": "6439f3bebf2334135a4a79301d169b98620a62c856ea96beb9c2b4416e1ca52c",
+    "assets/objects/s2_htz/rock_fragment/00.png": "8f47ad31f34f1333e0ea64584e9ee1306b79d7c7ba76b46a3eb1836fd76aa204",
+    "assets/objects/s2_htz/rock_fragment/01.png": "585156420b7c5e1578c26a2a57bdb1b283082e4a8bd45b89992bbb583f5672f0",
+    "assets/objects/s2_htz/rock_fragment/02.png": "4982fda2f5ade6356ee4e49052fb28451f4100f91c95e01ae81fb2b6434357d0",
+    "assets/objects/s2_htz/rock_fragment/03.png": "7faa9736819f4e5fe88ef8d902f425acc6dcda7f33d1867ec9a8c6c03e62c7ac",
+    "assets/objects/s2_htz/rock_fragment/04.png": "3c540b1efb3d8c241b83b9dc3efc1dc8d8bd2c4d43716cc955cac281562e5bda",
+    "assets/objects/s2_htz/rock_fragment/05.png": "48ef960257cc088b661089d63ee7ba75c69cd2b435aa1fce2b1d85d87dcd7e3f",
+    "assets/objects/s2_htz/quake_lava/00.png": "037711250401aa653868fd52472017d92c5fe6664530c360142605dcfb79abd2",
+    "assets/objects/s2_htz/quake_lava/01.png": "027c0c4b25949f59083e436c3eedbd449550d2d0fe9d0e20d7ceb0bd0d1b6eb5",
+    "assets/objects/s2_htz/quake_lava/02.png": "9cf7ac7ed0c94bdf02ddd78d5c335a7be00844fd88ac8a448a8f0ea03c7e1509",
+    "assets/objects/s2_htz/quake_lava/03.png": "f60eae55941459291fdbba619713aa0ff9b6271a37bd7462bee46b7560c3c164",
+    "assets/objects/s2_htz/quake_lava/04.png": "47e5745b51a608665bf92717b574f6e4ab31f5cd5bb27f0ac000c656f2facc5b",
+    "assets/objects/s2_htz/quake_lava/05.png": "c3ddb6fe9b4918b7098243e38178bd1b633ae9dfd1d1757bb792ff58cd47c73c",
+    "assets/objects/s2_htz/quake_lava/06.png": "9cf7ac7ed0c94bdf02ddd78d5c335a7be00844fd88ac8a448a8f0ea03c7e1509",
+    "assets/objects/s2_htz/quake_lava/07.png": "f0eb9114c7a23803cb14e9749d865fe215929bc9f69c7c5dcfcb11e960aede7b",
+    "assets/objects/s2_htz/quake_lava/08.png": "037711250401aa653868fd52472017d92c5fe6664530c360142605dcfb79abd2",
+    "assets/objects/s2_htz/quake_lava/09.png": "811e2854c2c543c3537afc4e9ec5eb06a6362ea61423bb8bfefa0b17996cfac3",
+    "assets/objects/s2_htz/quake_lava/10.png": "11073b3f66ae96e0572094c7904f46a251127a61832c566eeeac66bf55bbabe7",
+    "assets/objects/s2_htz/quake_lava/11.png": "e8dbdfcedcf7d290bdc8e0008c1d94661018044fd762e236f73c3e827064cef6",
+    "assets/objects/s2_htz/quake_lava/12.png": "c139c73234256c3429db81b04eea953da750b96243f2d0942003201220b8ae06",
+    "assets/objects/s2_htz/quake_lava/13.png": "811e2854c2c543c3537afc4e9ec5eb06a6362ea61423bb8bfefa0b17996cfac3",
+    "assets/objects/s2_htz/quake_lava/14.png": "313c03842575ec86774a7602ee4bf44961d735f9f0c6cd77e89e8bc85a8515d0",
+    "assets/objects/s2_htz/quake_lava/15.png": "1a673f5fc92f926a6a37de535da671edb6c1b045d30549f8f4195e4e7c6d00d7"
+  },
+  "lift_flipped_frames": 5,
+  "rock_fragments": 6,
+  "quake_lava_frames": 16,
+  "quake_lava_size": [
+    384,
+    240
+  ]
+}

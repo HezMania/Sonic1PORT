@@ -1,0 +1,85 @@
+{
+  "phase": 95,
+  "level": "Aquatic Ruin Zone Act 1",
+  "start": [
+    96,
+    894
+  ],
+  "limits": {
+    "left": 0,
+    "right": 10432,
+    "top": 512,
+    "bottom": 1536
+  },
+  "water": {
+    "static_y": 1040
+  },
+  "layout_128": [
+    128,
+    16
+  ],
+  "background_128": [
+    128,
+    16
+  ],
+  "background_index_plane": [
+    16384,
+    1536
+  ],
+  "background_unique_chunks": 37,
+  "object_records": 182,
+  "supported_shared_records": 73,
+  "deferred_arz_specific_records": 109,
+  "object_counts_hex": {
+    "03": 30,
+    "0D": 1,
+    "18": 11,
+    "1F": 5,
+    "22": 8,
+    "23": 5,
+    "24": 10,
+    "26": 13,
+    "2B": 4,
+    "2C": 34,
+    "36": 1,
+    "40": 6,
+    "41": 8,
+    "79": 3,
+    "82": 2,
+    "83": 3,
+    "8C": 6,
+    "8D": 4,
+    "8E": 11,
+    "91": 17
+  },
+  "apm_arz": {
+    "destination": 6080,
+    "bytes": 64
+  },
+  "music": {
+    "id": 408,
+    "tempo": 224,
+    "voices": 6,
+    "dac_ids": [
+      0,
+      1,
+      2,
+      11,
+      12,
+      13
+    ]
+  },
+  "output_sha256": {
+    "arz1_art.bin": "c61989e11d2ff1a9e20b72a5a42e42b5695dc6a2557b45a8a5842b4f3a8ce898",
+    "arz1_map16.bin": "7133a27f781fffeb6731cf45a09ce1968f1f79d54caca9606edfa88c0baee63b",
+    "arz1_map128.bin": "2a5d2bc9c0c8512ff9d3e0fc2f47f14a7d4c030ef05bd1b148b7cbdb39234abc",
+    "arz1_layout128.bin": "bca62aa2deaf8b6a6a0544b1c2c683b9e961bcaaa3fb591c4280971a31579625",
+    "arz1_bg128.bin": "b881822b77e404e5962c43576fb294aae1bfa9222a82f11bb8983c69e8b4ae9a",
+    "arz1_collision_primary.bin": "fedc2f3320ccf70fcc65352769d6a901f86b4e87a0c34182a2a4ebf34ae02a3d",
+    "arz1_collision_secondary.bin": "666230ee17807f05b9c118077565c52f7e6b19b249035fd98c1828c8f7afe141",
+    "arz1_objects.bin": "06085e501f0064565a0002ad412a8b944cf351750e3a264a200831678db82e54",
+    "arz1_rings.bin": "4ecad99e8268f98803658fb8d99439bfa70408945fd27ff745f19e8253fd3fec",
+    "arz1_start.bin": "a8557392f75b165b689b9bd7c6b04aa9ae44258a894c5527da936c91b78ab05c",
+    "arz1_bg_indices.bin": "ed22fd8df643f4de39bd5840cec585e00dce34bac6f6c2760cde1bf0e6129c6a"
+  }
+}

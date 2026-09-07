@@ -1,0 +1,27 @@
+{
+  "phase": 100,
+  "baseline": "Sonic1PC_S2AquaticRuinObjectCompletion_Phase99.zip",
+  "zone": "Casino Night Zone Act 1",
+  "total_source_object_records": 286,
+  "previously_native_records": 48,
+  "new_native_traversal_records": 173,
+  "native_records_after_phase100": 221,
+  "remaining_deferred_records": 65,
+  "new_object_ids": {
+    "44": 74,
+    "72": 4,
+    "84": 18,
+    "85": 7,
+    "86": 38,
+    "D4": 15,
+    "D5": 5,
+    "D7": 12
+  },
+  "remaining_object_ids": {
+    "C8": 2,
+    "D2": 4,
+    "D6": 15,
+    "D8": 44
+  },
+  "carried_fix": "Object $40 pressure springboard high-byte 8.8 launch/kick translation"
+}
